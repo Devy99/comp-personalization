@@ -1,0 +1,22 @@
+====================================================================================================
+Computing p-value and OR for the small models and p-value and effect size for crystalBLEU - small models
+====================================================================================================
+[1] "EXACT MATCH"
+CrystalBLEU scores analysis
+                count      mean       std  min   25%   50%  75%  max
+model                                                               
+baseline      50000.0  0.466007  0.400864  0.0  0.00  0.41  1.0  1.0
+developer     50000.0  0.504709  0.403924  0.0  0.04  0.47  1.0  1.0
+organization  50000.0  0.541878  0.403018  0.0  0.12  0.55  1.0  1.0
+[1] "CRYSTAL BLEU"
+====================================================================================================
+Computing p-value and OR for the large models and p-value and effect size for crystalBLEU - large models
+====================================================================================================
+[1] "EXACT MATCH"
+CrystalBLEU scores analysis
+               count      mean       std  min   25%   50%  75%  max
+model                                                              
+baseline      5000.0  0.588982  0.399918  0.0  0.20  0.65  1.0  1.0
+developer     5000.0  0.630994  0.394263  0.0  0.26  0.75  1.0  1.0
+organization  5000.0  0.651786  0.388722  0.0  0.31  0.81  1.0  1.0
+[1] "CRYSTAL BLEU"

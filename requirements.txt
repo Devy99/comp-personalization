@@ -1,0 +1,37 @@
+# Github mining
+pandas==2.0.3
+PyDriller==2.5.1
+requests==2.31.0
+wrapt-timeout-decorator==1.4.0
+
+# Dataset generation
+javalang==0.13.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+colorcet==3.0.1
+sentence-transformers==2.2.2
+GitPython==3.1.40
+requests==2.31.0
+matplotlib==3.8.2
+more_itertools==10.2.0
+
+# Training
+datasets==2.14.5
+flax>=0.3.5
+jax>=0.2.8
+jaxlib>=0.1.59
+transformers==4.34.1
+optax>=0.0.8
+nltk==3.8.1
+torch==2.1.0
+accelerate==0.24.1
+natsort==8.4.0
+sentencepiece==0.1.99
+trl==0.7.4
+levenshtein==0.23.0
+
+# Analyses
+crystalbleu==0.1
+nltk==3.8.1
+seaborn==0.13.2
+Pygments==2.17.2

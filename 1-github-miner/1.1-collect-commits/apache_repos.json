@@ -1,0 +1,4798 @@
+[
+  {
+    "name": "tapestry3",
+    "url": "https://github.com/apache/tapestry3"
+  },
+  {
+    "name": "tapestry4",
+    "url": "https://github.com/apache/tapestry4"
+  },
+  {
+    "name": "xalan-j",
+    "url": "https://github.com/apache/xalan-j"
+  },
+  {
+    "name": "etch",
+    "url": "https://github.com/apache/etch"
+  },
+  {
+    "name": "zookeeper",
+    "url": "https://github.com/apache/zookeeper"
+  },
+  {
+    "name": "jspwiki",
+    "url": "https://github.com/apache/jspwiki"
+  },
+  {
+    "name": "ofbiz",
+    "url": "https://github.com/apache/ofbiz"
+  },
+  {
+    "name": "directory-studio",
+    "url": "https://github.com/apache/directory-studio"
+  },
+  {
+    "name": "chainsaw",
+    "url": "https://github.com/apache/chainsaw"
+  },
+  {
+    "name": "maven-wagon",
+    "url": "https://github.com/apache/maven-wagon"
+  },
+  {
+    "name": "maven-resources",
+    "url": "https://github.com/apache/maven-resources"
+  },
+  {
+    "name": "camel",
+    "url": "https://github.com/apache/camel"
+  },
+  {
+    "name": "xmlgraphics-fop",
+    "url": "https://github.com/apache/xmlgraphics-fop"
+  },
+  {
+    "name": "maven-scm",
+    "url": "https://github.com/apache/maven-scm"
+  },
+  {
+    "name": "maven-plugins",
+    "url": "https://github.com/apache/maven-plugins"
+  },
+  {
+    "name": "directory-samples",
+    "url": "https://github.com/apache/directory-samples"
+  },
+  {
+    "name": "maven-release",
+    "url": "https://github.com/apache/maven-release"
+  },
+  {
+    "name": "maven-enforcer",
+    "url": "https://github.com/apache/maven-enforcer"
+  },
+  {
+    "name": "synapse",
+    "url": "https://github.com/apache/synapse"
+  },
+  {
+    "name": "maven-mercury",
+    "url": "https://github.com/apache/maven-mercury"
+  },
+  {
+    "name": "cayenne",
+    "url": "https://github.com/apache/cayenne"
+  },
+  {
+    "name": "pig",
+    "url": "https://github.com/apache/pig"
+  },
+  {
+    "name": "commons-collections",
+    "url": "https://github.com/apache/commons-collections"
+  },
+  {
+    "name": "maven-doxia-tools",
+    "url": "https://github.com/apache/maven-doxia-tools"
+  },
+  {
+    "name": "openjpa",
+    "url": "https://github.com/apache/openjpa"
+  },
+  {
+    "name": "mina",
+    "url": "https://github.com/apache/mina"
+  },
+  {
+    "name": "poi",
+    "url": "https://github.com/apache/poi"
+  },
+  {
+    "name": "nutch",
+    "url": "https://github.com/apache/nutch"
+  },
+  {
+    "name": "commons-codec",
+    "url": "https://github.com/apache/commons-codec"
+  },
+  {
+    "name": "harmony-jdktools",
+    "url": "https://github.com/apache/harmony-jdktools"
+  },
+  {
+    "name": "maven-shared",
+    "url": "https://github.com/apache/maven-shared"
+  },
+  {
+    "name": "commons-lang",
+    "url": "https://github.com/apache/commons-lang"
+  },
+  {
+    "name": "logging-log4j1",
+    "url": "https://github.com/apache/logging-log4j1"
+  },
+  {
+    "name": "jsecurity",
+    "url": "https://github.com/apache/jsecurity"
+  },
+  {
+    "name": "activemq",
+    "url": "https://github.com/apache/activemq"
+  },
+  {
+    "name": "xmlgraphics-commons",
+    "url": "https://github.com/apache/xmlgraphics-commons"
+  },
+  {
+    "name": "harmony-classlib",
+    "url": "https://github.com/apache/harmony-classlib"
+  },
+  {
+    "name": "struts1",
+    "url": "https://github.com/apache/struts1"
+  },
+  {
+    "name": "commons-io",
+    "url": "https://github.com/apache/commons-io"
+  },
+  {
+    "name": "httpcomponents-core",
+    "url": "https://github.com/apache/httpcomponents-core"
+  },
+  {
+    "name": "maven-doxia-sitetools",
+    "url": "https://github.com/apache/maven-doxia-sitetools"
+  },
+  {
+    "name": "struts-sandbox",
+    "url": "https://github.com/apache/struts-sandbox"
+  },
+  {
+    "name": "httpcomponents-client",
+    "url": "https://github.com/apache/httpcomponents-client"
+  },
+  {
+    "name": "jackrabbit",
+    "url": "https://github.com/apache/jackrabbit"
+  },
+  {
+    "name": "sanselan",
+    "url": "https://github.com/apache/sanselan"
+  },
+  {
+    "name": "wicket",
+    "url": "https://github.com/apache/wicket"
+  },
+  {
+    "name": "continuum",
+    "url": "https://github.com/apache/continuum"
+  },
+  {
+    "name": "maven-ant-tasks",
+    "url": "https://github.com/apache/maven-ant-tasks"
+  },
+  {
+    "name": "maven-plugin-testing",
+    "url": "https://github.com/apache/maven-plugin-testing"
+  },
+  {
+    "name": "maven-sandbox",
+    "url": "https://github.com/apache/maven-sandbox"
+  },
+  {
+    "name": "cassandra",
+    "url": "https://github.com/apache/cassandra"
+  },
+  {
+    "name": "tika",
+    "url": "https://github.com/apache/tika"
+  },
+  {
+    "name": "cocoon",
+    "url": "https://github.com/apache/cocoon"
+  },
+  {
+    "name": "directory-server",
+    "url": "https://github.com/apache/directory-server"
+  },
+  {
+    "name": "maven-jxr",
+    "url": "https://github.com/apache/maven-jxr"
+  },
+  {
+    "name": "chemistry",
+    "url": "https://github.com/apache/chemistry"
+  },
+  {
+    "name": "hive",
+    "url": "https://github.com/apache/hive"
+  },
+  {
+    "name": "xmlgraphics-batik",
+    "url": "https://github.com/apache/xmlgraphics-batik"
+  },
+  {
+    "name": "ode",
+    "url": "https://github.com/apache/ode"
+  },
+  {
+    "name": "roller",
+    "url": "https://github.com/apache/roller"
+  },
+  {
+    "name": "avro",
+    "url": "https://github.com/apache/avro"
+  },
+  {
+    "name": "maven-artifact",
+    "url": "https://github.com/apache/maven-artifact"
+  },
+  {
+    "name": "maven-doxia",
+    "url": "https://github.com/apache/maven-doxia"
+  },
+  {
+    "name": "qpid",
+    "url": "https://github.com/apache/qpid"
+  },
+  {
+    "name": "abdera",
+    "url": "https://github.com/apache/abdera"
+  },
+  {
+    "name": "maven",
+    "url": "https://github.com/apache/maven"
+  },
+  {
+    "name": "maven-archetype",
+    "url": "https://github.com/apache/maven-archetype"
+  },
+  {
+    "name": "shindig",
+    "url": "https://github.com/apache/shindig"
+  },
+  {
+    "name": "maven-plugin-tools",
+    "url": "https://github.com/apache/maven-plugin-tools"
+  },
+  {
+    "name": "commons-logging",
+    "url": "https://github.com/apache/commons-logging"
+  },
+  {
+    "name": "commons-cli",
+    "url": "https://github.com/apache/commons-cli"
+  },
+  {
+    "name": "servicemix4-nmr",
+    "url": "https://github.com/apache/servicemix4-nmr"
+  },
+  {
+    "name": "servicemix-archetypes",
+    "url": "https://github.com/apache/servicemix-archetypes"
+  },
+  {
+    "name": "servicemix4-bundles",
+    "url": "https://github.com/apache/servicemix4-bundles"
+  },
+  {
+    "name": "servicemix4-kernel",
+    "url": "https://github.com/apache/servicemix4-kernel"
+  },
+  {
+    "name": "servicemix4-features",
+    "url": "https://github.com/apache/servicemix4-features"
+  },
+  {
+    "name": "servicemix3",
+    "url": "https://github.com/apache/servicemix3"
+  },
+  {
+    "name": "servicemix-utils",
+    "url": "https://github.com/apache/servicemix-utils"
+  },
+  {
+    "name": "servicemix-maven-plugins",
+    "url": "https://github.com/apache/servicemix-maven-plugins"
+  },
+  {
+    "name": "servicemix4-specs",
+    "url": "https://github.com/apache/servicemix4-specs"
+  },
+  {
+    "name": "geronimo-specs",
+    "url": "https://github.com/apache/geronimo-specs"
+  },
+  {
+    "name": "geronimo-genesis",
+    "url": "https://github.com/apache/geronimo-genesis"
+  },
+  {
+    "name": "geronimo-xbean",
+    "url": "https://github.com/apache/geronimo-xbean"
+  },
+  {
+    "name": "geronimo",
+    "url": "https://github.com/apache/geronimo"
+  },
+  {
+    "name": "geronimo-gshell",
+    "url": "https://github.com/apache/geronimo-gshell"
+  },
+  {
+    "name": "geronimo-yoko",
+    "url": "https://github.com/apache/geronimo-yoko"
+  },
+  {
+    "name": "geronimo-javamail",
+    "url": "https://github.com/apache/geronimo-javamail"
+  },
+  {
+    "name": "wink",
+    "url": "https://github.com/apache/wink"
+  },
+  {
+    "name": "xmlbeans",
+    "url": "https://github.com/apache/xmlbeans"
+  },
+  {
+    "name": "shiro",
+    "url": "https://github.com/apache/shiro"
+  },
+  {
+    "name": "activemq-activeio",
+    "url": "https://github.com/apache/activemq-activeio"
+  },
+  {
+    "name": "activemq-protobuf",
+    "url": "https://github.com/apache/activemq-protobuf"
+  },
+  {
+    "name": "pdfbox",
+    "url": "https://github.com/apache/pdfbox"
+  },
+  {
+    "name": "aries",
+    "url": "https://github.com/apache/aries"
+  },
+  {
+    "name": "tuscany-sca-1.x",
+    "url": "https://github.com/apache/tuscany-sca-1.x"
+  },
+  {
+    "name": "tuscany-das",
+    "url": "https://github.com/apache/tuscany-das"
+  },
+  {
+    "name": "tuscany-sdo",
+    "url": "https://github.com/apache/tuscany-sdo"
+  },
+  {
+    "name": "tuscany-sca-2.x",
+    "url": "https://github.com/apache/tuscany-sca-2.x"
+  },
+  {
+    "name": "jmeter",
+    "url": "https://github.com/apache/jmeter"
+  },
+  {
+    "name": "maven-2",
+    "url": "https://github.com/apache/maven-2"
+  },
+  {
+    "name": "myfaces-scripting",
+    "url": "https://github.com/apache/myfaces-scripting"
+  },
+  {
+    "name": "ace",
+    "url": "https://github.com/apache/ace"
+  },
+  {
+    "name": "mina-sshd",
+    "url": "https://github.com/apache/mina-sshd"
+  },
+  {
+    "name": "log4j-zeroconf",
+    "url": "https://github.com/apache/log4j-zeroconf"
+  },
+  {
+    "name": "harmony",
+    "url": "https://github.com/apache/harmony"
+  },
+  {
+    "name": "log4j-extras",
+    "url": "https://github.com/apache/log4j-extras"
+  },
+  {
+    "name": "tomcat55",
+    "url": "https://github.com/apache/tomcat55"
+  },
+  {
+    "name": "karaf",
+    "url": "https://github.com/apache/karaf"
+  },
+  {
+    "name": "nuvem",
+    "url": "https://github.com/apache/nuvem"
+  },
+  {
+    "name": "whirr",
+    "url": "https://github.com/apache/whirr"
+  },
+  {
+    "name": "maven-surefire",
+    "url": "https://github.com/apache/maven-surefire"
+  },
+  {
+    "name": "hama",
+    "url": "https://github.com/apache/hama"
+  },
+  {
+    "name": "myfaces-html5",
+    "url": "https://github.com/apache/myfaces-html5"
+  },
+  {
+    "name": "commons-validator",
+    "url": "https://github.com/apache/commons-validator"
+  },
+  {
+    "name": "webservices-commons-xmlschema",
+    "url": "https://github.com/apache/webservices-commons-xmlschema"
+  },
+  {
+    "name": "myfaces-extcdi",
+    "url": "https://github.com/apache/myfaces-extcdi"
+  },
+  {
+    "name": "myfaces-extval",
+    "url": "https://github.com/apache/myfaces-extval"
+  },
+  {
+    "name": "xerces2-j",
+    "url": "https://github.com/apache/xerces2-j"
+  },
+  {
+    "name": "maven-integration-testing",
+    "url": "https://github.com/apache/maven-integration-testing"
+  },
+  {
+    "name": "stanbol",
+    "url": "https://github.com/apache/stanbol"
+  },
+  {
+    "name": "servicemix-components",
+    "url": "https://github.com/apache/servicemix-components"
+  },
+  {
+    "name": "geronimo-txmanager",
+    "url": "https://github.com/apache/geronimo-txmanager"
+  },
+  {
+    "name": "openwebbeans",
+    "url": "https://github.com/apache/openwebbeans"
+  },
+  {
+    "name": "activemq-apollo",
+    "url": "https://github.com/apache/activemq-apollo"
+  },
+  {
+    "name": "geronimo-devtools",
+    "url": "https://github.com/apache/geronimo-devtools"
+  },
+  {
+    "name": "geronimo-jaspi",
+    "url": "https://github.com/apache/geronimo-jaspi"
+  },
+  {
+    "name": "bval",
+    "url": "https://github.com/apache/bval"
+  },
+  {
+    "name": "clerezza",
+    "url": "https://github.com/apache/clerezza"
+  },
+  {
+    "name": "incubator-kie-optaplanner",
+    "url": "https://github.com/apache/incubator-kie-optaplanner"
+  },
+  {
+    "name": "incubator-kie-drools",
+    "url": "https://github.com/apache/incubator-kie-drools"
+  },
+  {
+    "name": "mrunit",
+    "url": "https://github.com/apache/mrunit"
+  },
+  {
+    "name": "bookkeeper",
+    "url": "https://github.com/apache/bookkeeper"
+  },
+  {
+    "name": "hcatalog",
+    "url": "https://github.com/apache/hcatalog"
+  },
+  {
+    "name": "ftpserver",
+    "url": "https://github.com/apache/ftpserver"
+  },
+  {
+    "name": "karaf-cellar",
+    "url": "https://github.com/apache/karaf-cellar"
+  },
+  {
+    "name": "derby",
+    "url": "https://github.com/apache/derby"
+  },
+  {
+    "name": "empire-db",
+    "url": "https://github.com/apache/empire-db"
+  },
+  {
+    "name": "santuario-java",
+    "url": "https://github.com/apache/santuario-java"
+  },
+  {
+    "name": "sqoop",
+    "url": "https://github.com/apache/sqoop"
+  },
+  {
+    "name": "kandula",
+    "url": "https://github.com/apache/kandula"
+  },
+  {
+    "name": "flume",
+    "url": "https://github.com/apache/flume"
+  },
+  {
+    "name": "sandesha",
+    "url": "https://github.com/apache/sandesha"
+  },
+  {
+    "name": "rampart",
+    "url": "https://github.com/apache/rampart"
+  },
+  {
+    "name": "kafka",
+    "url": "https://github.com/apache/kafka"
+  },
+  {
+    "name": "savan",
+    "url": "https://github.com/apache/savan"
+  },
+  {
+    "name": "pivot",
+    "url": "https://github.com/apache/pivot"
+  },
+  {
+    "name": "giraph",
+    "url": "https://github.com/apache/giraph"
+  },
+  {
+    "name": "tomcat-maven-plugin",
+    "url": "https://github.com/apache/tomcat-maven-plugin"
+  },
+  {
+    "name": "oozie",
+    "url": "https://github.com/apache/oozie"
+  },
+  {
+    "name": "ambari",
+    "url": "https://github.com/apache/ambari"
+  },
+  {
+    "name": "tomcat",
+    "url": "https://github.com/apache/tomcat"
+  },
+  {
+    "name": "accumulo",
+    "url": "https://github.com/apache/accumulo"
+  },
+  {
+    "name": "commons-fileupload",
+    "url": "https://github.com/apache/commons-fileupload"
+  },
+  {
+    "name": "httpasyncclient",
+    "url": "https://github.com/apache/httpasyncclient"
+  },
+  {
+    "name": "commons-compress",
+    "url": "https://github.com/apache/commons-compress"
+  },
+  {
+    "name": "commons-exec",
+    "url": "https://github.com/apache/commons-exec"
+  },
+  {
+    "name": "directmemory",
+    "url": "https://github.com/apache/directmemory"
+  },
+  {
+    "name": "tiles",
+    "url": "https://github.com/apache/tiles"
+  },
+  {
+    "name": "archiva-sandbox",
+    "url": "https://github.com/apache/archiva-sandbox"
+  },
+  {
+    "name": "kalumet",
+    "url": "https://github.com/apache/kalumet"
+  },
+  {
+    "name": "maven-app-engine",
+    "url": "https://github.com/apache/maven-app-engine"
+  },
+  {
+    "name": "opennlp",
+    "url": "https://github.com/apache/opennlp"
+  },
+  {
+    "name": "james-jspf",
+    "url": "https://github.com/apache/james-jspf"
+  },
+  {
+    "name": "james-mime4j",
+    "url": "https://github.com/apache/james-mime4j"
+  },
+  {
+    "name": "lenya",
+    "url": "https://github.com/apache/lenya"
+  },
+  {
+    "name": "incubator-retired-s4",
+    "url": "https://github.com/apache/incubator-retired-s4"
+  },
+  {
+    "name": "chemistry-opencmis",
+    "url": "https://github.com/apache/chemistry-opencmis"
+  },
+  {
+    "name": "jackrabbit-oak",
+    "url": "https://github.com/apache/jackrabbit-oak"
+  },
+  {
+    "name": "chukwa",
+    "url": "https://github.com/apache/chukwa"
+  },
+  {
+    "name": "archiva-redback-components",
+    "url": "https://github.com/apache/archiva-redback-components"
+  },
+  {
+    "name": "tiles-request",
+    "url": "https://github.com/apache/tiles-request"
+  },
+  {
+    "name": "tiles-autotag",
+    "url": "https://github.com/apache/tiles-autotag"
+  },
+  {
+    "name": "tapestry-5",
+    "url": "https://github.com/apache/tapestry-5"
+  },
+  {
+    "name": "karaf-cave",
+    "url": "https://github.com/apache/karaf-cave"
+  },
+  {
+    "name": "dubbo",
+    "url": "https://github.com/apache/dubbo"
+  },
+  {
+    "name": "manifoldcf",
+    "url": "https://github.com/apache/manifoldcf"
+  },
+  {
+    "name": "james-hupa",
+    "url": "https://github.com/apache/james-hupa"
+  },
+  {
+    "name": "james-postage",
+    "url": "https://github.com/apache/james-postage"
+  },
+  {
+    "name": "james-jdkim",
+    "url": "https://github.com/apache/james-jdkim"
+  },
+  {
+    "name": "james-jsieve",
+    "url": "https://github.com/apache/james-jsieve"
+  },
+  {
+    "name": "odftoolkit",
+    "url": "https://github.com/apache/odftoolkit"
+  },
+  {
+    "name": "karaf-webconsole",
+    "url": "https://github.com/apache/karaf-webconsole"
+  },
+  {
+    "name": "royale-compiler",
+    "url": "https://github.com/apache/royale-compiler"
+  },
+  {
+    "name": "drill",
+    "url": "https://github.com/apache/drill"
+  },
+  {
+    "name": "creadur-rat",
+    "url": "https://github.com/apache/creadur-rat"
+  },
+  {
+    "name": "directmemory-lightning",
+    "url": "https://github.com/apache/directmemory-lightning"
+  },
+  {
+    "name": "crunch",
+    "url": "https://github.com/apache/crunch"
+  },
+  {
+    "name": "druid",
+    "url": "https://github.com/apache/druid"
+  },
+  {
+    "name": "cassandra-java-driver",
+    "url": "https://github.com/apache/cassandra-java-driver"
+  },
+  {
+    "name": "causeway",
+    "url": "https://github.com/apache/causeway"
+  },
+  {
+    "name": "commons-net",
+    "url": "https://github.com/apache/commons-net"
+  },
+  {
+    "name": "jena",
+    "url": "https://github.com/apache/jena"
+  },
+  {
+    "name": "incubator-retired-hdt",
+    "url": "https://github.com/apache/incubator-retired-hdt"
+  },
+  {
+    "name": "oodt",
+    "url": "https://github.com/apache/oodt"
+  },
+  {
+    "name": "tomee",
+    "url": "https://github.com/apache/tomee"
+  },
+  {
+    "name": "openejb",
+    "url": "https://github.com/apache/openejb"
+  },
+  {
+    "name": "predictionio-sdk-java",
+    "url": "https://github.com/apache/predictionio-sdk-java"
+  },
+  {
+    "name": "commons-configuration",
+    "url": "https://github.com/apache/commons-configuration"
+  },
+  {
+    "name": "tez",
+    "url": "https://github.com/apache/tez"
+  },
+  {
+    "name": "cloudstack",
+    "url": "https://github.com/apache/cloudstack"
+  },
+  {
+    "name": "creadur-tentacles",
+    "url": "https://github.com/apache/creadur-tentacles"
+  },
+  {
+    "name": "creadur-whisker",
+    "url": "https://github.com/apache/creadur-whisker"
+  },
+  {
+    "name": "ode-jacob",
+    "url": "https://github.com/apache/ode-jacob"
+  },
+  {
+    "name": "oltu",
+    "url": "https://github.com/apache/oltu"
+  },
+  {
+    "name": "deltaspike",
+    "url": "https://github.com/apache/deltaspike"
+  },
+  {
+    "name": "sis",
+    "url": "https://github.com/apache/sis"
+  },
+  {
+    "name": "commons-beanutils",
+    "url": "https://github.com/apache/commons-beanutils"
+  },
+  {
+    "name": "commons-csv",
+    "url": "https://github.com/apache/commons-csv"
+  },
+  {
+    "name": "incubator-retired-provisionr",
+    "url": "https://github.com/apache/incubator-retired-provisionr"
+  },
+  {
+    "name": "incubator-tez",
+    "url": "https://github.com/apache/incubator-tez"
+  },
+  {
+    "name": "logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2"
+  },
+  {
+    "name": "fluo",
+    "url": "https://github.com/apache/fluo"
+  },
+  {
+    "name": "cordova-plugin-inappbrowser",
+    "url": "https://github.com/apache/cordova-plugin-inappbrowser"
+  },
+  {
+    "name": "commons-pool",
+    "url": "https://github.com/apache/commons-pool"
+  },
+  {
+    "name": "commons-dbcp",
+    "url": "https://github.com/apache/commons-dbcp"
+  },
+  {
+    "name": "commons-jcs",
+    "url": "https://github.com/apache/commons-jcs"
+  },
+  {
+    "name": "commons-jelly",
+    "url": "https://github.com/apache/commons-jelly"
+  },
+  {
+    "name": "commons-jexl",
+    "url": "https://github.com/apache/commons-jexl"
+  },
+  {
+    "name": "commons-jxpath",
+    "url": "https://github.com/apache/commons-jxpath"
+  },
+  {
+    "name": "commons-ognl",
+    "url": "https://github.com/apache/commons-ognl"
+  },
+  {
+    "name": "commons-proxy",
+    "url": "https://github.com/apache/commons-proxy"
+  },
+  {
+    "name": "commons-email",
+    "url": "https://github.com/apache/commons-email"
+  },
+  {
+    "name": "commons-functor",
+    "url": "https://github.com/apache/commons-functor"
+  },
+  {
+    "name": "commons-imaging",
+    "url": "https://github.com/apache/commons-imaging"
+  },
+  {
+    "name": "commons-jci",
+    "url": "https://github.com/apache/commons-jci"
+  },
+  {
+    "name": "commons-bsf",
+    "url": "https://github.com/apache/commons-bsf"
+  },
+  {
+    "name": "commons-chain",
+    "url": "https://github.com/apache/commons-chain"
+  },
+  {
+    "name": "commons-dbutils",
+    "url": "https://github.com/apache/commons-dbutils"
+  },
+  {
+    "name": "commons-digester",
+    "url": "https://github.com/apache/commons-digester"
+  },
+  {
+    "name": "commons-bcel",
+    "url": "https://github.com/apache/commons-bcel"
+  },
+  {
+    "name": "commons-vfs",
+    "url": "https://github.com/apache/commons-vfs"
+  },
+  {
+    "name": "falcon",
+    "url": "https://github.com/apache/falcon"
+  },
+  {
+    "name": "metamodel",
+    "url": "https://github.com/apache/metamodel"
+  },
+  {
+    "name": "manifoldcf-integration-solr-3.x",
+    "url": "https://github.com/apache/manifoldcf-integration-solr-3.x"
+  },
+  {
+    "name": "manifoldcf-integration-solr-4.x",
+    "url": "https://github.com/apache/manifoldcf-integration-solr-4.x"
+  },
+  {
+    "name": "incubator-sentry",
+    "url": "https://github.com/apache/incubator-sentry"
+  },
+  {
+    "name": "incubator-ambari",
+    "url": "https://github.com/apache/incubator-ambari"
+  },
+  {
+    "name": "incubator-knox",
+    "url": "https://github.com/apache/incubator-knox"
+  },
+  {
+    "name": "commons-weaver",
+    "url": "https://github.com/apache/commons-weaver"
+  },
+  {
+    "name": "aurora",
+    "url": "https://github.com/apache/aurora"
+  },
+  {
+    "name": "incubator-batchee",
+    "url": "https://github.com/apache/incubator-batchee"
+  },
+  {
+    "name": "storm",
+    "url": "https://github.com/apache/storm"
+  },
+  {
+    "name": "usergrid",
+    "url": "https://github.com/apache/usergrid"
+  },
+  {
+    "name": "click",
+    "url": "https://github.com/apache/click"
+  },
+  {
+    "name": "velocity-engine",
+    "url": "https://github.com/apache/velocity-engine"
+  },
+  {
+    "name": "velocity-tools",
+    "url": "https://github.com/apache/velocity-tools"
+  },
+  {
+    "name": "uima-uimaj",
+    "url": "https://github.com/apache/uima-uimaj"
+  },
+  {
+    "name": "uima-addons",
+    "url": "https://github.com/apache/uima-addons"
+  },
+  {
+    "name": "uima-sandbox",
+    "url": "https://github.com/apache/uima-sandbox"
+  },
+  {
+    "name": "uima-uimafit",
+    "url": "https://github.com/apache/uima-uimafit"
+  },
+  {
+    "name": "incubator-retired-wave",
+    "url": "https://github.com/apache/incubator-retired-wave"
+  },
+  {
+    "name": "cordova-amazon-fireos",
+    "url": "https://github.com/apache/cordova-amazon-fireos"
+  },
+  {
+    "name": "karaf-eik",
+    "url": "https://github.com/apache/karaf-eik"
+  },
+  {
+    "name": "river-container",
+    "url": "https://github.com/apache/river-container"
+  },
+  {
+    "name": "jclouds",
+    "url": "https://github.com/apache/jclouds"
+  },
+  {
+    "name": "helix",
+    "url": "https://github.com/apache/helix"
+  },
+  {
+    "name": "datafu",
+    "url": "https://github.com/apache/datafu"
+  },
+  {
+    "name": "struts",
+    "url": "https://github.com/apache/struts"
+  },
+  {
+    "name": "jackrabbit-filevault",
+    "url": "https://github.com/apache/jackrabbit-filevault"
+  },
+  {
+    "name": "jackrabbit-ocm",
+    "url": "https://github.com/apache/jackrabbit-ocm"
+  },
+  {
+    "name": "marmotta",
+    "url": "https://github.com/apache/marmotta"
+  },
+  {
+    "name": "airavata",
+    "url": "https://github.com/apache/airavata"
+  },
+  {
+    "name": "wookie",
+    "url": "https://github.com/apache/wookie"
+  },
+  {
+    "name": "cxf",
+    "url": "https://github.com/apache/cxf"
+  },
+  {
+    "name": "juddi",
+    "url": "https://github.com/apache/juddi"
+  },
+  {
+    "name": "knox",
+    "url": "https://github.com/apache/knox"
+  },
+  {
+    "name": "curator",
+    "url": "https://github.com/apache/curator"
+  },
+  {
+    "name": "cxf-build-utils",
+    "url": "https://github.com/apache/cxf-build-utils"
+  },
+  {
+    "name": "cxf-dosgi",
+    "url": "https://github.com/apache/cxf-dosgi"
+  },
+  {
+    "name": "cxf-fediz",
+    "url": "https://github.com/apache/cxf-fediz"
+  },
+  {
+    "name": "cxf-xjc-utils",
+    "url": "https://github.com/apache/cxf-xjc-utils"
+  },
+  {
+    "name": "struts-examples",
+    "url": "https://github.com/apache/struts-examples"
+  },
+  {
+    "name": "samza-hello-samza",
+    "url": "https://github.com/apache/samza-hello-samza"
+  },
+  {
+    "name": "streams",
+    "url": "https://github.com/apache/streams"
+  },
+  {
+    "name": "rave",
+    "url": "https://github.com/apache/rave"
+  },
+  {
+    "name": "incubator-tajo",
+    "url": "https://github.com/apache/incubator-tajo"
+  },
+  {
+    "name": "tajo",
+    "url": "https://github.com/apache/tajo"
+  },
+  {
+    "name": "servicemix",
+    "url": "https://github.com/apache/servicemix"
+  },
+  {
+    "name": "archiva",
+    "url": "https://github.com/apache/archiva"
+  },
+  {
+    "name": "archiva-redback-core",
+    "url": "https://github.com/apache/archiva-redback-core"
+  },
+  {
+    "name": "olingo-odata2",
+    "url": "https://github.com/apache/olingo-odata2"
+  },
+  {
+    "name": "olingo-odata4",
+    "url": "https://github.com/apache/olingo-odata4"
+  },
+  {
+    "name": "maven-indexer",
+    "url": "https://github.com/apache/maven-indexer"
+  },
+  {
+    "name": "incubator-brooklyn",
+    "url": "https://github.com/apache/incubator-brooklyn"
+  },
+  {
+    "name": "flex-blazeds",
+    "url": "https://github.com/apache/flex-blazeds"
+  },
+  {
+    "name": "gora",
+    "url": "https://github.com/apache/gora"
+  },
+  {
+    "name": "pinot",
+    "url": "https://github.com/apache/pinot"
+  },
+  {
+    "name": "incubator-retired-slider",
+    "url": "https://github.com/apache/incubator-retired-slider"
+  },
+  {
+    "name": "hbase",
+    "url": "https://github.com/apache/hbase"
+  },
+  {
+    "name": "mahout",
+    "url": "https://github.com/apache/mahout"
+  },
+  {
+    "name": "portals-pluto",
+    "url": "https://github.com/apache/portals-pluto"
+  },
+  {
+    "name": "ant-antlibs-antunit",
+    "url": "https://github.com/apache/ant-antlibs-antunit"
+  },
+  {
+    "name": "ant-antlibs-compress",
+    "url": "https://github.com/apache/ant-antlibs-compress"
+  },
+  {
+    "name": "ant-antlibs-dotnet",
+    "url": "https://github.com/apache/ant-antlibs-dotnet"
+  },
+  {
+    "name": "ant-antlibs-props",
+    "url": "https://github.com/apache/ant-antlibs-props"
+  },
+  {
+    "name": "ant-antlibs-svn",
+    "url": "https://github.com/apache/ant-antlibs-svn"
+  },
+  {
+    "name": "ant-antlibs-vss",
+    "url": "https://github.com/apache/ant-antlibs-vss"
+  },
+  {
+    "name": "ant-ivy",
+    "url": "https://github.com/apache/ant-ivy"
+  },
+  {
+    "name": "ant-ivyde",
+    "url": "https://github.com/apache/ant-ivyde"
+  },
+  {
+    "name": "ant",
+    "url": "https://github.com/apache/ant"
+  },
+  {
+    "name": "incubator-retired-blur",
+    "url": "https://github.com/apache/incubator-retired-blur"
+  },
+  {
+    "name": "stratos",
+    "url": "https://github.com/apache/stratos"
+  },
+  {
+    "name": "phoenix",
+    "url": "https://github.com/apache/phoenix"
+  },
+  {
+    "name": "flink",
+    "url": "https://github.com/apache/flink"
+  },
+  {
+    "name": "parquet-format",
+    "url": "https://github.com/apache/parquet-format"
+  },
+  {
+    "name": "parquet-mr",
+    "url": "https://github.com/apache/parquet-mr"
+  },
+  {
+    "name": "ant-easyant-buildtypes",
+    "url": "https://github.com/apache/ant-easyant-buildtypes"
+  },
+  {
+    "name": "ant-easyant-core",
+    "url": "https://github.com/apache/ant-easyant-core"
+  },
+  {
+    "name": "ant-easyant-easyant4e",
+    "url": "https://github.com/apache/ant-easyant-easyant4e"
+  },
+  {
+    "name": "ant-easyant-plugins",
+    "url": "https://github.com/apache/ant-easyant-plugins"
+  },
+  {
+    "name": "ant-easyant-tasks",
+    "url": "https://github.com/apache/ant-easyant-tasks"
+  },
+  {
+    "name": "incubator-optiq-csv",
+    "url": "https://github.com/apache/incubator-optiq-csv"
+  },
+  {
+    "name": "incubator-optiq-linq4j",
+    "url": "https://github.com/apache/incubator-optiq-linq4j"
+  },
+  {
+    "name": "calcite",
+    "url": "https://github.com/apache/calcite"
+  },
+  {
+    "name": "activemq-openwire",
+    "url": "https://github.com/apache/activemq-openwire"
+  },
+  {
+    "name": "ranger",
+    "url": "https://github.com/apache/ranger"
+  },
+  {
+    "name": "hadoop",
+    "url": "https://github.com/apache/hadoop"
+  },
+  {
+    "name": "ddlutils",
+    "url": "https://github.com/apache/ddlutils"
+  },
+  {
+    "name": "johnzon",
+    "url": "https://github.com/apache/johnzon"
+  },
+  {
+    "name": "qpid-jms",
+    "url": "https://github.com/apache/qpid-jms"
+  },
+  {
+    "name": "commons-math",
+    "url": "https://github.com/apache/commons-math"
+  },
+  {
+    "name": "hadoop-common",
+    "url": "https://github.com/apache/hadoop-common"
+  },
+  {
+    "name": "hadoop-hdfs",
+    "url": "https://github.com/apache/hadoop-hdfs"
+  },
+  {
+    "name": "hadoop-mapreduce",
+    "url": "https://github.com/apache/hadoop-mapreduce"
+  },
+  {
+    "name": "reef",
+    "url": "https://github.com/apache/reef"
+  },
+  {
+    "name": "syncope",
+    "url": "https://github.com/apache/syncope"
+  },
+  {
+    "name": "karaf-decanter",
+    "url": "https://github.com/apache/karaf-decanter"
+  },
+  {
+    "name": "xmlgraphics-fop-pdf-images",
+    "url": "https://github.com/apache/xmlgraphics-fop-pdf-images"
+  },
+  {
+    "name": "tomcat80",
+    "url": "https://github.com/apache/tomcat80"
+  },
+  {
+    "name": "commons-text",
+    "url": "https://github.com/apache/commons-text"
+  },
+  {
+    "name": "lens",
+    "url": "https://github.com/apache/lens"
+  },
+  {
+    "name": "incubator-retired-tamaya",
+    "url": "https://github.com/apache/incubator-retired-tamaya"
+  },
+  {
+    "name": "gobblin",
+    "url": "https://github.com/apache/gobblin"
+  },
+  {
+    "name": "nifi",
+    "url": "https://github.com/apache/nifi"
+  },
+  {
+    "name": "kylin",
+    "url": "https://github.com/apache/kylin"
+  },
+  {
+    "name": "incubator-samoa",
+    "url": "https://github.com/apache/incubator-samoa"
+  },
+  {
+    "name": "tinkerpop",
+    "url": "https://github.com/apache/tinkerpop"
+  },
+  {
+    "name": "streams-examples",
+    "url": "https://github.com/apache/streams-examples"
+  },
+  {
+    "name": "incubator-taverna-commandline",
+    "url": "https://github.com/apache/incubator-taverna-commandline"
+  },
+  {
+    "name": "incubator-taverna-common-activities",
+    "url": "https://github.com/apache/incubator-taverna-common-activities"
+  },
+  {
+    "name": "incubator-taverna-engine",
+    "url": "https://github.com/apache/incubator-taverna-engine"
+  },
+  {
+    "name": "incubator-taverna-language",
+    "url": "https://github.com/apache/incubator-taverna-language"
+  },
+  {
+    "name": "incubator-taverna-osgi",
+    "url": "https://github.com/apache/incubator-taverna-osgi"
+  },
+  {
+    "name": "incubator-taverna-server",
+    "url": "https://github.com/apache/incubator-taverna-server"
+  },
+  {
+    "name": "incubator-taverna-workbench-common-activities",
+    "url": "https://github.com/apache/incubator-taverna-workbench-common-activities"
+  },
+  {
+    "name": "incubator-taverna-workbench",
+    "url": "https://github.com/apache/incubator-taverna-workbench"
+  },
+  {
+    "name": "ignite",
+    "url": "https://github.com/apache/ignite"
+  },
+  {
+    "name": "asterixdb",
+    "url": "https://github.com/apache/asterixdb"
+  },
+  {
+    "name": "servicemix-bundles",
+    "url": "https://github.com/apache/servicemix-bundles"
+  },
+  {
+    "name": "servicemix-specs",
+    "url": "https://github.com/apache/servicemix-specs"
+  },
+  {
+    "name": "struts-annotations",
+    "url": "https://github.com/apache/struts-annotations"
+  },
+  {
+    "name": "openmeetings",
+    "url": "https://github.com/apache/openmeetings"
+  },
+  {
+    "name": "samza",
+    "url": "https://github.com/apache/samza"
+  },
+  {
+    "name": "clerezza-rdf-core",
+    "url": "https://github.com/apache/clerezza-rdf-core"
+  },
+  {
+    "name": "directory-kerby",
+    "url": "https://github.com/apache/directory-kerby"
+  },
+  {
+    "name": "vxquery",
+    "url": "https://github.com/apache/vxquery"
+  },
+  {
+    "name": "commons-rdf",
+    "url": "https://github.com/apache/commons-rdf"
+  },
+  {
+    "name": "zeppelin",
+    "url": "https://github.com/apache/zeppelin"
+  },
+  {
+    "name": "asterixdb-hyracks",
+    "url": "https://github.com/apache/asterixdb-hyracks"
+  },
+  {
+    "name": "polygene-java",
+    "url": "https://github.com/apache/polygene-java"
+  },
+  {
+    "name": "polygene-sandbox",
+    "url": "https://github.com/apache/polygene-sandbox"
+  },
+  {
+    "name": "dubbo-rpc-jsonrpc",
+    "url": "https://github.com/apache/dubbo-rpc-jsonrpc"
+  },
+  {
+    "name": "incubator-myriad",
+    "url": "https://github.com/apache/incubator-myriad"
+  },
+  {
+    "name": "incubator-retired-openaz",
+    "url": "https://github.com/apache/incubator-retired-openaz"
+  },
+  {
+    "name": "groovy",
+    "url": "https://github.com/apache/groovy"
+  },
+  {
+    "name": "incubator-retired-mrql",
+    "url": "https://github.com/apache/incubator-retired-mrql"
+  },
+  {
+    "name": "incubator-retired-htrace",
+    "url": "https://github.com/apache/incubator-retired-htrace"
+  },
+  {
+    "name": "sedona",
+    "url": "https://github.com/apache/sedona"
+  },
+  {
+    "name": "geode",
+    "url": "https://github.com/apache/geode"
+  },
+  {
+    "name": "predictionio-template-java-ecom-recommender",
+    "url": "https://github.com/apache/predictionio-template-java-ecom-recommender"
+  },
+  {
+    "name": "incubator-atlas",
+    "url": "https://github.com/apache/incubator-atlas"
+  },
+  {
+    "name": "incubator-taverna-mobile",
+    "url": "https://github.com/apache/incubator-taverna-mobile"
+  },
+  {
+    "name": "activemq-artemis",
+    "url": "https://github.com/apache/activemq-artemis"
+  },
+  {
+    "name": "datasketches-hive",
+    "url": "https://github.com/apache/datasketches-hive"
+  },
+  {
+    "name": "datasketches-pig",
+    "url": "https://github.com/apache/datasketches-pig"
+  },
+  {
+    "name": "datasketches-java",
+    "url": "https://github.com/apache/datasketches-java"
+  },
+  {
+    "name": "commons-scxml",
+    "url": "https://github.com/apache/commons-scxml"
+  },
+  {
+    "name": "james-project",
+    "url": "https://github.com/apache/james-project"
+  },
+  {
+    "name": "nifi-maven",
+    "url": "https://github.com/apache/nifi-maven"
+  },
+  {
+    "name": "apex-core",
+    "url": "https://github.com/apache/apex-core"
+  },
+  {
+    "name": "apex-malhar",
+    "url": "https://github.com/apache/apex-malhar"
+  },
+  {
+    "name": "incubator-retired-wave-android",
+    "url": "https://github.com/apache/incubator-retired-wave-android"
+  },
+  {
+    "name": "fluo-recipes",
+    "url": "https://github.com/apache/fluo-recipes"
+  },
+  {
+    "name": "freemarker-docgen",
+    "url": "https://github.com/apache/freemarker-docgen"
+  },
+  {
+    "name": "freemarker",
+    "url": "https://github.com/apache/freemarker"
+  },
+  {
+    "name": "shardingsphere-elasticjob",
+    "url": "https://github.com/apache/shardingsphere-elasticjob"
+  },
+  {
+    "name": "incubator-retired-horn",
+    "url": "https://github.com/apache/incubator-retired-horn"
+  },
+  {
+    "name": "incubator-heron",
+    "url": "https://github.com/apache/incubator-heron"
+  },
+  {
+    "name": "directory-fortress-commander",
+    "url": "https://github.com/apache/directory-fortress-commander"
+  },
+  {
+    "name": "directory-fortress-core",
+    "url": "https://github.com/apache/directory-fortress-core"
+  },
+  {
+    "name": "directory-fortress-enmasse",
+    "url": "https://github.com/apache/directory-fortress-enmasse"
+  },
+  {
+    "name": "directory-fortress-realm",
+    "url": "https://github.com/apache/directory-fortress-realm"
+  },
+  {
+    "name": "rya",
+    "url": "https://github.com/apache/rya"
+  },
+  {
+    "name": "skywalking",
+    "url": "https://github.com/apache/skywalking"
+  },
+  {
+    "name": "systemds",
+    "url": "https://github.com/apache/systemds"
+  },
+  {
+    "name": "eagle",
+    "url": "https://github.com/apache/eagle"
+  },
+  {
+    "name": "unomi",
+    "url": "https://github.com/apache/unomi"
+  },
+  {
+    "name": "brooklyn-library",
+    "url": "https://github.com/apache/brooklyn-library"
+  },
+  {
+    "name": "brooklyn-server",
+    "url": "https://github.com/apache/brooklyn-server"
+  },
+  {
+    "name": "metron",
+    "url": "https://github.com/apache/metron"
+  },
+  {
+    "name": "fineract",
+    "url": "https://github.com/apache/fineract"
+  },
+  {
+    "name": "shardingsphere",
+    "url": "https://github.com/apache/shardingsphere"
+  },
+  {
+    "name": "beam",
+    "url": "https://github.com/apache/beam"
+  },
+  {
+    "name": "incubator-retired-edgent",
+    "url": "https://github.com/apache/incubator-retired-edgent"
+  },
+  {
+    "name": "aries-rsa",
+    "url": "https://github.com/apache/aries-rsa"
+  },
+  {
+    "name": "nifi-minifi",
+    "url": "https://github.com/apache/nifi-minifi"
+  },
+  {
+    "name": "guacamole-client",
+    "url": "https://github.com/apache/guacamole-client"
+  },
+  {
+    "name": "joshua",
+    "url": "https://github.com/apache/joshua"
+  },
+  {
+    "name": "sentry",
+    "url": "https://github.com/apache/sentry"
+  },
+  {
+    "name": "mnemonic",
+    "url": "https://github.com/apache/mnemonic"
+  },
+  {
+    "name": "cordova-plugin-compat",
+    "url": "https://github.com/apache/cordova-plugin-compat"
+  },
+  {
+    "name": "incubator-kie-benchmarks",
+    "url": "https://github.com/apache/incubator-kie-benchmarks"
+  },
+  {
+    "name": "commons-crypto",
+    "url": "https://github.com/apache/commons-crypto"
+  },
+  {
+    "name": "phoenix-omid",
+    "url": "https://github.com/apache/phoenix-omid"
+  },
+  {
+    "name": "karaf-boot",
+    "url": "https://github.com/apache/karaf-boot"
+  },
+  {
+    "name": "incubator-taverna-plugin-gis",
+    "url": "https://github.com/apache/incubator-taverna-plugin-gis"
+  },
+  {
+    "name": "incubator-retired-gossip",
+    "url": "https://github.com/apache/incubator-retired-gossip"
+  },
+  {
+    "name": "phoenix-tephra",
+    "url": "https://github.com/apache/phoenix-tephra"
+  },
+  {
+    "name": "incubator-retired-pirk",
+    "url": "https://github.com/apache/incubator-retired-pirk"
+  },
+  {
+    "name": "pulsar",
+    "url": "https://github.com/apache/pulsar"
+  },
+  {
+    "name": "struts-archetypes",
+    "url": "https://github.com/apache/struts-archetypes"
+  },
+  {
+    "name": "distributedlog",
+    "url": "https://github.com/apache/distributedlog"
+  },
+  {
+    "name": "twill",
+    "url": "https://github.com/apache/twill"
+  },
+  {
+    "name": "juneau",
+    "url": "https://github.com/apache/juneau"
+  },
+  {
+    "name": "commons-rng",
+    "url": "https://github.com/apache/commons-rng"
+  },
+  {
+    "name": "incubator-twill",
+    "url": "https://github.com/apache/incubator-twill"
+  },
+  {
+    "name": "bahir-flink",
+    "url": "https://github.com/apache/bahir-flink"
+  },
+  {
+    "name": "incubator-retired-tamaya-extensions",
+    "url": "https://github.com/apache/incubator-retired-tamaya-extensions"
+  },
+  {
+    "name": "incubator-retired-tamaya-sandbox",
+    "url": "https://github.com/apache/incubator-retired-tamaya-sandbox"
+  },
+  {
+    "name": "usergrid-android",
+    "url": "https://github.com/apache/usergrid-android"
+  },
+  {
+    "name": "usergrid-java",
+    "url": "https://github.com/apache/usergrid-java"
+  },
+  {
+    "name": "openwhisk-sample-matos",
+    "url": "https://github.com/apache/openwhisk-sample-matos"
+  },
+  {
+    "name": "asterixdb-bad",
+    "url": "https://github.com/apache/asterixdb-bad"
+  },
+  {
+    "name": "maven-resolver",
+    "url": "https://github.com/apache/maven-resolver"
+  },
+  {
+    "name": "incubator-hivemall",
+    "url": "https://github.com/apache/incubator-hivemall"
+  },
+  {
+    "name": "opennlp-addons",
+    "url": "https://github.com/apache/opennlp-addons"
+  },
+  {
+    "name": "opennlp-sandbox",
+    "url": "https://github.com/apache/opennlp-sandbox"
+  },
+  {
+    "name": "commons-numbers",
+    "url": "https://github.com/apache/commons-numbers"
+  },
+  {
+    "name": "logging-log4j-audit",
+    "url": "https://github.com/apache/logging-log4j-audit"
+  },
+  {
+    "name": "logging-log4j-tools",
+    "url": "https://github.com/apache/logging-log4j-tools"
+  },
+  {
+    "name": "accumulo-bsp",
+    "url": "https://github.com/apache/accumulo-bsp"
+  },
+  {
+    "name": "accumulo-instamo-archetype",
+    "url": "https://github.com/apache/accumulo-instamo-archetype"
+  },
+  {
+    "name": "accumulo-pig",
+    "url": "https://github.com/apache/accumulo-pig"
+  },
+  {
+    "name": "accumulo-wikisearch",
+    "url": "https://github.com/apache/accumulo-wikisearch"
+  },
+  {
+    "name": "aries-jax-rs-whiteboard",
+    "url": "https://github.com/apache/aries-jax-rs-whiteboard"
+  },
+  {
+    "name": "usergrid-qakka",
+    "url": "https://github.com/apache/usergrid-qakka"
+  },
+  {
+    "name": "rocketmq",
+    "url": "https://github.com/apache/rocketmq"
+  },
+  {
+    "name": "accumulo-examples",
+    "url": "https://github.com/apache/accumulo-examples"
+  },
+  {
+    "name": "openwebbeans-meecrowave",
+    "url": "https://github.com/apache/openwebbeans-meecrowave"
+  },
+  {
+    "name": "hudi",
+    "url": "https://github.com/apache/hudi"
+  },
+  {
+    "name": "qpid-proton-j",
+    "url": "https://github.com/apache/qpid-proton-j"
+  },
+  {
+    "name": "accumulo-testing",
+    "url": "https://github.com/apache/accumulo-testing"
+  },
+  {
+    "name": "geode-examples",
+    "url": "https://github.com/apache/geode-examples"
+  },
+  {
+    "name": "cayenne-modeler",
+    "url": "https://github.com/apache/cayenne-modeler"
+  },
+  {
+    "name": "logging-log4j-boot",
+    "url": "https://github.com/apache/logging-log4j-boot"
+  },
+  {
+    "name": "ratis",
+    "url": "https://github.com/apache/ratis"
+  },
+  {
+    "name": "activemq-cli-tools",
+    "url": "https://github.com/apache/activemq-cli-tools"
+  },
+  {
+    "name": "ofbiz-framework",
+    "url": "https://github.com/apache/ofbiz-framework"
+  },
+  {
+    "name": "nifi-registry",
+    "url": "https://github.com/apache/nifi-registry"
+  },
+  {
+    "name": "qpid-jms-amqp-0-x",
+    "url": "https://github.com/apache/qpid-jms-amqp-0-x"
+  },
+  {
+    "name": "freemarker-online-tester",
+    "url": "https://github.com/apache/freemarker-online-tester"
+  },
+  {
+    "name": "ofbiz-plugins",
+    "url": "https://github.com/apache/ofbiz-plugins"
+  },
+  {
+    "name": "activemq-nms-openwire-generator",
+    "url": "https://github.com/apache/activemq-nms-openwire-generator"
+  },
+  {
+    "name": "rocketmq-externals",
+    "url": "https://github.com/apache/rocketmq-externals"
+  },
+  {
+    "name": "datasketches-memory",
+    "url": "https://github.com/apache/datasketches-memory"
+  },
+  {
+    "name": "struts-extras",
+    "url": "https://github.com/apache/struts-extras"
+  },
+  {
+    "name": "calcite-avatica",
+    "url": "https://github.com/apache/calcite-avatica"
+  },
+  {
+    "name": "aries-jpa",
+    "url": "https://github.com/apache/aries-jpa"
+  },
+  {
+    "name": "qpid-broker-j",
+    "url": "https://github.com/apache/qpid-broker-j"
+  },
+  {
+    "name": "servicecomb-java-chassis",
+    "url": "https://github.com/apache/servicecomb-java-chassis"
+  },
+  {
+    "name": "aries-containers",
+    "url": "https://github.com/apache/aries-containers"
+  },
+  {
+    "name": "logging-chainsaw",
+    "url": "https://github.com/apache/logging-chainsaw"
+  },
+  {
+    "name": "hbase-thirdparty",
+    "url": "https://github.com/apache/hbase-thirdparty"
+  },
+  {
+    "name": "tomee-site-generator",
+    "url": "https://github.com/apache/tomee-site-generator"
+  },
+  {
+    "name": "geronimo-config",
+    "url": "https://github.com/apache/geronimo-config"
+  },
+  {
+    "name": "servicecomb-pack",
+    "url": "https://github.com/apache/servicecomb-pack"
+  },
+  {
+    "name": "atlas",
+    "url": "https://github.com/apache/atlas"
+  },
+  {
+    "name": "metamodel-membrane",
+    "url": "https://github.com/apache/metamodel-membrane"
+  },
+  {
+    "name": "seatunnel",
+    "url": "https://github.com/apache/seatunnel"
+  },
+  {
+    "name": "doris",
+    "url": "https://github.com/apache/doris"
+  },
+  {
+    "name": "directory-ldap-api",
+    "url": "https://github.com/apache/directory-ldap-api"
+  },
+  {
+    "name": "myfaces-tobago",
+    "url": "https://github.com/apache/myfaces-tobago"
+  },
+  {
+    "name": "myfaces-trinidad",
+    "url": "https://github.com/apache/myfaces-trinidad"
+  },
+  {
+    "name": "netbeans-html4j",
+    "url": "https://github.com/apache/netbeans-html4j"
+  },
+  {
+    "name": "netbeans-jackpot30",
+    "url": "https://github.com/apache/netbeans-jackpot30"
+  },
+  {
+    "name": "netbeans",
+    "url": "https://github.com/apache/netbeans"
+  },
+  {
+    "name": "logging-log4j-audit-sample",
+    "url": "https://github.com/apache/logging-log4j-audit-sample"
+  },
+  {
+    "name": "geronimo-safeguard",
+    "url": "https://github.com/apache/geronimo-safeguard"
+  },
+  {
+    "name": "jackrabbit-filevault-package-maven-plugin",
+    "url": "https://github.com/apache/jackrabbit-filevault-package-maven-plugin"
+  },
+  {
+    "name": "myfaces-trinidad-maven",
+    "url": "https://github.com/apache/myfaces-trinidad-maven"
+  },
+  {
+    "name": "shardingsphere-example",
+    "url": "https://github.com/apache/shardingsphere-example"
+  },
+  {
+    "name": "datasketches-vector",
+    "url": "https://github.com/apache/datasketches-vector"
+  },
+  {
+    "name": "openwhisk-runtime-java",
+    "url": "https://github.com/apache/openwhisk-runtime-java"
+  },
+  {
+    "name": "pdfbox-jbig2",
+    "url": "https://github.com/apache/pdfbox-jbig2"
+  },
+  {
+    "name": "sling-org-apache-sling-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-api"
+  },
+  {
+    "name": "sling-org-apache-sling-auth-core",
+    "url": "https://github.com/apache/sling-org-apache-sling-auth-core"
+  },
+  {
+    "name": "sling-org-apache-sling-auth-form",
+    "url": "https://github.com/apache/sling-org-apache-sling-auth-form"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-classloader",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-classloader"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-compiler",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-compiler"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-contentdetection",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-contentdetection"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-fsclassloader",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-fsclassloader"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-johnzon",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-johnzon"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-log",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-log"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-logservice",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-logservice"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-log-webconsole",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-log-webconsole"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-metrics",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-metrics"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-metrics-rrd4j",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-metrics-rrd4j"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-mime",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-mime"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-messaging-mail",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-messaging-mail"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-messaging",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-messaging"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-osgi",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-osgi"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-scheduler",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-scheduler"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-threaddump",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-threaddump"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-threads",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-threads"
+  },
+  {
+    "name": "sling-org-apache-sling-engine",
+    "url": "https://github.com/apache/sling-org-apache-sling-engine"
+  },
+  {
+    "name": "sling-org-apache-sling-adapter",
+    "url": "https://github.com/apache/sling-org-apache-sling-adapter"
+  },
+  {
+    "name": "sling-org-apache-sling-bundleresource-impl",
+    "url": "https://github.com/apache/sling-org-apache-sling-bundleresource-impl"
+  },
+  {
+    "name": "sling-org-apache-sling-caconfig-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-caconfig-api"
+  },
+  {
+    "name": "sling-org-apache-sling-caconfig-impl",
+    "url": "https://github.com/apache/sling-org-apache-sling-caconfig-impl"
+  },
+  {
+    "name": "sling-org-apache-sling-caconfig-integration-tests",
+    "url": "https://github.com/apache/sling-org-apache-sling-caconfig-integration-tests"
+  },
+  {
+    "name": "sling-org-apache-sling-caconfig-spi",
+    "url": "https://github.com/apache/sling-org-apache-sling-caconfig-spi"
+  },
+  {
+    "name": "sling-org-apache-sling-event-dea",
+    "url": "https://github.com/apache/sling-org-apache-sling-event-dea"
+  },
+  {
+    "name": "sling-org-apache-sling-discovery-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-discovery-api"
+  },
+  {
+    "name": "sling-org-apache-sling-discovery-base",
+    "url": "https://github.com/apache/sling-org-apache-sling-discovery-base"
+  },
+  {
+    "name": "sling-org-apache-sling-discovery-commons",
+    "url": "https://github.com/apache/sling-org-apache-sling-discovery-commons"
+  },
+  {
+    "name": "sling-org-apache-sling-discovery-impl",
+    "url": "https://github.com/apache/sling-org-apache-sling-discovery-impl"
+  },
+  {
+    "name": "sling-org-apache-sling-discovery-oak",
+    "url": "https://github.com/apache/sling-org-apache-sling-discovery-oak"
+  },
+  {
+    "name": "sling-org-apache-sling-discovery-standalone",
+    "url": "https://github.com/apache/sling-org-apache-sling-discovery-standalone"
+  },
+  {
+    "name": "sling-org-apache-sling-discovery-support",
+    "url": "https://github.com/apache/sling-org-apache-sling-discovery-support"
+  },
+  {
+    "name": "sling-org-apache-sling-event-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-event-api"
+  },
+  {
+    "name": "sling-org-apache-sling-event",
+    "url": "https://github.com/apache/sling-org-apache-sling-event"
+  },
+  {
+    "name": "sling-org-apache-sling-featureflags",
+    "url": "https://github.com/apache/sling-org-apache-sling-featureflags"
+  },
+  {
+    "name": "sling-org-apache-sling-fsresource",
+    "url": "https://github.com/apache/sling-org-apache-sling-fsresource"
+  },
+  {
+    "name": "sling-org-apache-sling-hc-it",
+    "url": "https://github.com/apache/sling-org-apache-sling-hc-it"
+  },
+  {
+    "name": "sling-org-apache-sling-hc-junit-bridge",
+    "url": "https://github.com/apache/sling-org-apache-sling-hc-junit-bridge"
+  },
+  {
+    "name": "sling-org-apache-sling-hc-samples",
+    "url": "https://github.com/apache/sling-org-apache-sling-hc-samples"
+  },
+  {
+    "name": "sling-org-apache-sling-hc-support",
+    "url": "https://github.com/apache/sling-org-apache-sling-hc-support"
+  },
+  {
+    "name": "sling-org-apache-sling-i18n",
+    "url": "https://github.com/apache/sling-org-apache-sling-i18n"
+  },
+  {
+    "name": "sling-org-apache-sling-javax-activation",
+    "url": "https://github.com/apache/sling-org-apache-sling-javax-activation"
+  },
+  {
+    "name": "sling-org-apache-sling-models-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-models-api"
+  },
+  {
+    "name": "sling-org-apache-sling-models-impl",
+    "url": "https://github.com/apache/sling-org-apache-sling-models-impl"
+  },
+  {
+    "name": "sling-org-apache-sling-models-integration-tests",
+    "url": "https://github.com/apache/sling-org-apache-sling-models-integration-tests"
+  },
+  {
+    "name": "sling-org-apache-sling-models-jacksonexporter",
+    "url": "https://github.com/apache/sling-org-apache-sling-models-jacksonexporter"
+  },
+  {
+    "name": "sling-org-apache-sling-models-validation-impl",
+    "url": "https://github.com/apache/sling-org-apache-sling-models-validation-impl"
+  },
+  {
+    "name": "sling-org-apache-sling-resource-presence",
+    "url": "https://github.com/apache/sling-org-apache-sling-resource-presence"
+  },
+  {
+    "name": "sling-org-apache-sling-repoinit-parser",
+    "url": "https://github.com/apache/sling-org-apache-sling-repoinit-parser"
+  },
+  {
+    "name": "sling-org-apache-sling-resourcebuilder",
+    "url": "https://github.com/apache/sling-org-apache-sling-resourcebuilder"
+  },
+  {
+    "name": "sling-org-apache-sling-serviceusermapper",
+    "url": "https://github.com/apache/sling-org-apache-sling-serviceusermapper"
+  },
+  {
+    "name": "sling-org-apache-sling-servlet-helpers",
+    "url": "https://github.com/apache/sling-org-apache-sling-servlet-helpers"
+  },
+  {
+    "name": "sling-org-apache-sling-settings",
+    "url": "https://github.com/apache/sling-org-apache-sling-settings"
+  },
+  {
+    "name": "sling-org-apache-sling-validation-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-validation-api"
+  },
+  {
+    "name": "sling-org-apache-sling-validation-core",
+    "url": "https://github.com/apache/sling-org-apache-sling-validation-core"
+  },
+  {
+    "name": "sling-org-apache-sling-validation-examples",
+    "url": "https://github.com/apache/sling-org-apache-sling-validation-examples"
+  },
+  {
+    "name": "sling-org-apache-sling-validation-test-services",
+    "url": "https://github.com/apache/sling-org-apache-sling-validation-test-services"
+  },
+  {
+    "name": "sling-org-apache-sling-extensions-webconsolesecurityprovider",
+    "url": "https://github.com/apache/sling-org-apache-sling-extensions-webconsolesecurityprovider"
+  },
+  {
+    "name": "sling-org-apache-sling-xss",
+    "url": "https://github.com/apache/sling-org-apache-sling-xss"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-api"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-base",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-base"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-classloader",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-classloader"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-contentloader",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-contentloader"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-contentparser",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-contentparser"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-davex",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-davex"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-repository-it-resource-versioning",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-repository-it-resource-versioning"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-jackrabbit-accessmanager",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-accessmanager"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-jackrabbit-base",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-base"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-jackrabbit-usermanager",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-usermanager"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-oak-server",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-oak-server"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-registration",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-registration"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-repoinit",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-repoinit"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-resource",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-resource"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-webconsole",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-webconsole"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-webdav",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-webdav"
+  },
+  {
+    "name": "sling-org-apache-sling-resourceaccesssecurity",
+    "url": "https://github.com/apache/sling-org-apache-sling-resourceaccesssecurity"
+  },
+  {
+    "name": "sling-org-apache-sling-resourceaccesssecurity-it",
+    "url": "https://github.com/apache/sling-org-apache-sling-resourceaccesssecurity-it"
+  },
+  {
+    "name": "sling-org-apache-sling-resourceresolver",
+    "url": "https://github.com/apache/sling-org-apache-sling-resourceresolver"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-api"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-core",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-core"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-javascript",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-javascript"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-jsp",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-jsp"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-jsp-taglib",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-jsp-taglib"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-sightly-compiler",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-sightly",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-sightly"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-sightly-compiler-java",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler-java"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-sightly-js-provider",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-sightly-js-provider"
+  },
+  {
+    "name": "sling-org-apache-sling-servlets-get",
+    "url": "https://github.com/apache/sling-org-apache-sling-servlets-get"
+  },
+  {
+    "name": "sling-org-apache-sling-servlets-post",
+    "url": "https://github.com/apache/sling-org-apache-sling-servlets-post"
+  },
+  {
+    "name": "sling-org-apache-sling-servlets-resolver",
+    "url": "https://github.com/apache/sling-org-apache-sling-servlets-resolver"
+  },
+  {
+    "name": "sling-org-apache-sling-auth-xing-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-auth-xing-api"
+  },
+  {
+    "name": "sling-org-apache-sling-auth-xing-login",
+    "url": "https://github.com/apache/sling-org-apache-sling-auth-xing-login"
+  },
+  {
+    "name": "sling-org-apache-sling-auth-xing-oauth",
+    "url": "https://github.com/apache/sling-org-apache-sling-auth-xing-oauth"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-html",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-html"
+  },
+  {
+    "name": "sling-org-apache-sling-mom",
+    "url": "https://github.com/apache/sling-org-apache-sling-mom"
+  },
+  {
+    "name": "sling-org-apache-sling-jms",
+    "url": "https://github.com/apache/sling-org-apache-sling-jms"
+  },
+  {
+    "name": "sling-org-apache-sling-jobs",
+    "url": "https://github.com/apache/sling-org-apache-sling-jobs"
+  },
+  {
+    "name": "sling-org-apache-sling-jobs-it",
+    "url": "https://github.com/apache/sling-org-apache-sling-jobs-it"
+  },
+  {
+    "name": "sling-org-apache-sling-jobs-it-services",
+    "url": "https://github.com/apache/sling-org-apache-sling-jobs-it-services"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-cache-container-test",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-cache-container-test"
+  },
+  {
+    "name": "sling-org-apache-sling-cassandra",
+    "url": "https://github.com/apache/sling-org-apache-sling-cassandra"
+  },
+  {
+    "name": "sling-org-apache-sling-resourcecollection",
+    "url": "https://github.com/apache/sling-org-apache-sling-resourcecollection"
+  },
+  {
+    "name": "sling-org-apache-sling-datasource",
+    "url": "https://github.com/apache/sling-org-apache-sling-datasource"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-api"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-core",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-core"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-it",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-it"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-sample",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-sample"
+  },
+  {
+    "name": "sling-org-apache-sling-hapi-client",
+    "url": "https://github.com/apache/sling-org-apache-sling-hapi-client"
+  },
+  {
+    "name": "sling-org-apache-sling-hapi",
+    "url": "https://github.com/apache/sling-org-apache-sling-hapi"
+  },
+  {
+    "name": "sling-org-apache-sling-jmx-provider",
+    "url": "https://github.com/apache/sling-org-apache-sling-jmx-provider"
+  },
+  {
+    "name": "sling-org-apache-sling-extensions-classloader-leak-detector",
+    "url": "https://github.com/apache/sling-org-apache-sling-extensions-classloader-leak-detector"
+  },
+  {
+    "name": "sling-org-apache-sling-tail",
+    "url": "https://github.com/apache/sling-org-apache-sling-tail"
+  },
+  {
+    "name": "sling-org-apache-sling-mongodb",
+    "url": "https://github.com/apache/sling-org-apache-sling-mongodb"
+  },
+  {
+    "name": "sling-org-apache-sling-oak-restrictions",
+    "url": "https://github.com/apache/sling-org-apache-sling-oak-restrictions"
+  },
+  {
+    "name": "sling-org-apache-sling-reqanalyzer",
+    "url": "https://github.com/apache/sling-org-apache-sling-reqanalyzer"
+  },
+  {
+    "name": "sling-org-apache-sling-resource-inventory",
+    "url": "https://github.com/apache/sling-org-apache-sling-resource-inventory"
+  },
+  {
+    "name": "sling-org-apache-sling-resourcemerger",
+    "url": "https://github.com/apache/sling-org-apache-sling-resourcemerger"
+  },
+  {
+    "name": "sling-org-apache-sling-rewriter",
+    "url": "https://github.com/apache/sling-org-apache-sling-rewriter"
+  },
+  {
+    "name": "sling-org-apache-sling-security",
+    "url": "https://github.com/apache/sling-org-apache-sling-security"
+  },
+  {
+    "name": "sling-org-apache-sling-extensions-slf4j-mdc",
+    "url": "https://github.com/apache/sling-org-apache-sling-extensions-slf4j-mdc"
+  },
+  {
+    "name": "sling-org-apache-sling-dynamic-include",
+    "url": "https://github.com/apache/sling-org-apache-sling-dynamic-include"
+  },
+  {
+    "name": "sling-org-apache-sling-pipes",
+    "url": "https://github.com/apache/sling-org-apache-sling-pipes"
+  },
+  {
+    "name": "sling-org-apache-sling-query",
+    "url": "https://github.com/apache/sling-org-apache-sling-query"
+  },
+  {
+    "name": "sling-org-apache-sling-superimposing",
+    "url": "https://github.com/apache/sling-org-apache-sling-superimposing"
+  },
+  {
+    "name": "sling-org-apache-sling-tenant",
+    "url": "https://github.com/apache/sling-org-apache-sling-tenant"
+  },
+  {
+    "name": "sling-org-apache-sling-tracer",
+    "url": "https://github.com/apache/sling-org-apache-sling-tracer"
+  },
+  {
+    "name": "sling-org-apache-sling-urlrewriter",
+    "url": "https://github.com/apache/sling-org-apache-sling-urlrewriter"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-js-nodetypes",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-js-nodetypes"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-resourcesecurity",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-resourcesecurity"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-contrib-testing",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-contrib-testing"
+  },
+  {
+    "name": "sling-org-apache-sling-nosql-couchbase-client",
+    "url": "https://github.com/apache/sling-org-apache-sling-nosql-couchbase-client"
+  },
+  {
+    "name": "sling-org-apache-sling-nosql-couchbase-resourceprovider",
+    "url": "https://github.com/apache/sling-org-apache-sling-nosql-couchbase-resourceprovider"
+  },
+  {
+    "name": "sling-org-apache-sling-nosql-generic",
+    "url": "https://github.com/apache/sling-org-apache-sling-nosql-generic"
+  },
+  {
+    "name": "sling-org-apache-sling-nosql-mongodb-resourceprovider",
+    "url": "https://github.com/apache/sling-org-apache-sling-nosql-mongodb-resourceprovider"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-freemarker",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-freemarker"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-groovy",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-groovy"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-java",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-java"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-thymeleaf",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-thymeleaf"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-xproc",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-xproc"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-console",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-console"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-core",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-core"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-factory-configuration",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-factory-configuration"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-factory-deploymentpackage",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-factory-deploymentpackage"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-factory-model",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-factory-model"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-factory-packages",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-factory-packages"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-factory-subsystems-base",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-factory-subsystems-base"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-hc",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-hc"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-it",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-it"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-provider-file",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-provider-file"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-provider-jcr",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-provider-jcr"
+  },
+  {
+    "name": "sling-org-apache-sling-karaf-integration-tests",
+    "url": "https://github.com/apache/sling-org-apache-sling-karaf-integration-tests"
+  },
+  {
+    "name": "sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests",
+    "url": "https://github.com/apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-api"
+  },
+  {
+    "name": "sling-org-apache-sling-starter",
+    "url": "https://github.com/apache/sling-org-apache-sling-starter"
+  },
+  {
+    "name": "sling-org-apache-sling-starter-content",
+    "url": "https://github.com/apache/sling-org-apache-sling-starter-content"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-installer",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-installer"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-integration-tests",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-integration-tests"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-test-fragment",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-test-fragment"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-test-services",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-test-services"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-email",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-email"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-hamcrest",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-hamcrest"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-clients",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-clients"
+  },
+  {
+    "name": "sling-org-apache-sling-junit-core",
+    "url": "https://github.com/apache/sling-org-apache-sling-junit-core"
+  },
+  {
+    "name": "sling-org-apache-sling-junit-healthcheck",
+    "url": "https://github.com/apache/sling-org-apache-sling-junit-healthcheck"
+  },
+  {
+    "name": "sling-org-apache-sling-junit-performance",
+    "url": "https://github.com/apache/sling-org-apache-sling-junit-performance"
+  },
+  {
+    "name": "sling-org-apache-sling-junit-remote",
+    "url": "https://github.com/apache/sling-org-apache-sling-junit-remote"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-rules",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-rules"
+  },
+  {
+    "name": "sling-org-apache-sling-junit-scriptable",
+    "url": "https://github.com/apache/sling-org-apache-sling-junit-scriptable"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-caconfig-mock-plugin",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-caconfig-mock-plugin"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-jcr-mock",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-jcr-mock"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-osgi-mock",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-osgi-mock"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-resourceresolver-mock",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-resourceresolver-mock"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-sling-mock-oak",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-sling-mock-oak"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-sling-mock",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-sling-mock"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-paxexam",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-paxexam"
+  },
+  {
+    "name": "sling-org-apache-sling-testing-serversetup",
+    "url": "https://github.com/apache/sling-org-apache-sling-testing-serversetup"
+  },
+  {
+    "name": "sling-org-apache-sling-paxexam-util",
+    "url": "https://github.com/apache/sling-org-apache-sling-paxexam-util"
+  },
+  {
+    "name": "sling-org-apache-sling-caconfig-bnd-plugin",
+    "url": "https://github.com/apache/sling-org-apache-sling-caconfig-bnd-plugin"
+  },
+  {
+    "name": "sling-org-apache-sling-bnd-models",
+    "url": "https://github.com/apache/sling-org-apache-sling-bnd-models"
+  },
+  {
+    "name": "sling-adapter-annotations",
+    "url": "https://github.com/apache/sling-adapter-annotations"
+  },
+  {
+    "name": "sling-jcrinstall-bundle-archetype",
+    "url": "https://github.com/apache/sling-jcrinstall-bundle-archetype"
+  },
+  {
+    "name": "sling-bundle-archetype",
+    "url": "https://github.com/apache/sling-bundle-archetype"
+  },
+  {
+    "name": "sling-servlet-archetype",
+    "url": "https://github.com/apache/sling-servlet-archetype"
+  },
+  {
+    "name": "sling-taglib-archetype",
+    "url": "https://github.com/apache/sling-taglib-archetype"
+  },
+  {
+    "name": "sling-htl-maven-plugin",
+    "url": "https://github.com/apache/sling-htl-maven-plugin"
+  },
+  {
+    "name": "sling-jspc-maven-plugin",
+    "url": "https://github.com/apache/sling-jspc-maven-plugin"
+  },
+  {
+    "name": "sling-maven-launchpad-plugin",
+    "url": "https://github.com/apache/sling-maven-launchpad-plugin"
+  },
+  {
+    "name": "sling-maven-plugin",
+    "url": "https://github.com/apache/sling-maven-plugin"
+  },
+  {
+    "name": "sling-slingstart-maven-plugin",
+    "url": "https://github.com/apache/sling-slingstart-maven-plugin"
+  },
+  {
+    "name": "sling-launchpad-comparator",
+    "url": "https://github.com/apache/sling-launchpad-comparator"
+  },
+  {
+    "name": "sling-org-apache-sling-tooling-support-install",
+    "url": "https://github.com/apache/sling-org-apache-sling-tooling-support-install"
+  },
+  {
+    "name": "sling-org-apache-sling-provisioning-model",
+    "url": "https://github.com/apache/sling-org-apache-sling-provisioning-model"
+  },
+  {
+    "name": "sling-org-apache-sling-tooling-support-source",
+    "url": "https://github.com/apache/sling-org-apache-sling-tooling-support-source"
+  },
+  {
+    "name": "sling-ide-tooling",
+    "url": "https://github.com/apache/sling-ide-tooling"
+  },
+  {
+    "name": "sling-samples",
+    "url": "https://github.com/apache/sling-samples"
+  },
+  {
+    "name": "sling-org-apache-sling-performance",
+    "url": "https://github.com/apache/sling-org-apache-sling-performance"
+  },
+  {
+    "name": "karaf-reactive-components",
+    "url": "https://github.com/apache/karaf-reactive-components"
+  },
+  {
+    "name": "directory-buildtools",
+    "url": "https://github.com/apache/directory-buildtools"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-sightly-testing",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing"
+  },
+  {
+    "name": "dubbo-feature-test",
+    "url": "https://github.com/apache/dubbo-feature-test"
+  },
+  {
+    "name": "incubator-sdap-mudrod",
+    "url": "https://github.com/apache/incubator-sdap-mudrod"
+  },
+  {
+    "name": "shardingsphere-elasticjob-example",
+    "url": "https://github.com/apache/shardingsphere-elasticjob-example"
+  },
+  {
+    "name": "sling-whiteboard",
+    "url": "https://github.com/apache/sling-whiteboard"
+  },
+  {
+    "name": "maven-doxia-converter",
+    "url": "https://github.com/apache/maven-doxia-converter"
+  },
+  {
+    "name": "commons-testing",
+    "url": "https://github.com/apache/commons-testing"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-base",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-base"
+  },
+  {
+    "name": "incubator-retired-edgent-samples",
+    "url": "https://github.com/apache/incubator-retired-edgent-samples"
+  },
+  {
+    "name": "sling-org-apache-sling-junit-teleporter",
+    "url": "https://github.com/apache/sling-org-apache-sling-junit-teleporter"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-testing",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-testing"
+  },
+  {
+    "name": "maven-resolver-ant-tasks",
+    "url": "https://github.com/apache/maven-resolver-ant-tasks"
+  },
+  {
+    "name": "directory-mavibot",
+    "url": "https://github.com/apache/directory-mavibot"
+  },
+  {
+    "name": "incubator-crail",
+    "url": "https://github.com/apache/incubator-crail"
+  },
+  {
+    "name": "maven-archiver",
+    "url": "https://github.com/apache/maven-archiver"
+  },
+  {
+    "name": "maven-artifact-resolver",
+    "url": "https://github.com/apache/maven-artifact-resolver"
+  },
+  {
+    "name": "maven-artifact-transfer",
+    "url": "https://github.com/apache/maven-artifact-transfer"
+  },
+  {
+    "name": "maven-dependency-analyzer",
+    "url": "https://github.com/apache/maven-dependency-analyzer"
+  },
+  {
+    "name": "maven-dependency-tree",
+    "url": "https://github.com/apache/maven-dependency-tree"
+  },
+  {
+    "name": "maven-downloader",
+    "url": "https://github.com/apache/maven-downloader"
+  },
+  {
+    "name": "maven-filtering",
+    "url": "https://github.com/apache/maven-filtering"
+  },
+  {
+    "name": "maven-invoker",
+    "url": "https://github.com/apache/maven-invoker"
+  },
+  {
+    "name": "maven-jarsigner",
+    "url": "https://github.com/apache/maven-jarsigner"
+  },
+  {
+    "name": "maven-mapping",
+    "url": "https://github.com/apache/maven-mapping"
+  },
+  {
+    "name": "maven-osgi",
+    "url": "https://github.com/apache/maven-osgi"
+  },
+  {
+    "name": "maven-project-utils",
+    "url": "https://github.com/apache/maven-project-utils"
+  },
+  {
+    "name": "maven-reporting-api",
+    "url": "https://github.com/apache/maven-reporting-api"
+  },
+  {
+    "name": "maven-reporting-exec",
+    "url": "https://github.com/apache/maven-reporting-exec"
+  },
+  {
+    "name": "maven-reporting-impl",
+    "url": "https://github.com/apache/maven-reporting-impl"
+  },
+  {
+    "name": "maven-repository-builder-retired",
+    "url": "https://github.com/apache/maven-repository-builder-retired"
+  },
+  {
+    "name": "maven-runtime",
+    "url": "https://github.com/apache/maven-runtime"
+  },
+  {
+    "name": "maven-script-interpreter",
+    "url": "https://github.com/apache/maven-script-interpreter"
+  },
+  {
+    "name": "maven-shared-incremental",
+    "url": "https://github.com/apache/maven-shared-incremental"
+  },
+  {
+    "name": "maven-shared-io",
+    "url": "https://github.com/apache/maven-shared-io"
+  },
+  {
+    "name": "maven-shared-jar",
+    "url": "https://github.com/apache/maven-shared-jar"
+  },
+  {
+    "name": "maven-shared-utils",
+    "url": "https://github.com/apache/maven-shared-utils"
+  },
+  {
+    "name": "maven-verifier",
+    "url": "https://github.com/apache/maven-verifier"
+  },
+  {
+    "name": "maven-common-artifact-filters",
+    "url": "https://github.com/apache/maven-common-artifact-filters"
+  },
+  {
+    "name": "maven-site-plugin",
+    "url": "https://github.com/apache/maven-site-plugin"
+  },
+  {
+    "name": "maven-pdf-plugin",
+    "url": "https://github.com/apache/maven-pdf-plugin"
+  },
+  {
+    "name": "fineract-cn-portfolio",
+    "url": "https://github.com/apache/fineract-cn-portfolio"
+  },
+  {
+    "name": "fineract-cn-deposit-account-management",
+    "url": "https://github.com/apache/fineract-cn-deposit-account-management"
+  },
+  {
+    "name": "fineract-cn-accounting",
+    "url": "https://github.com/apache/fineract-cn-accounting"
+  },
+  {
+    "name": "fineract-cn-customer",
+    "url": "https://github.com/apache/fineract-cn-customer"
+  },
+  {
+    "name": "fineract-cn-demo-server",
+    "url": "https://github.com/apache/fineract-cn-demo-server"
+  },
+  {
+    "name": "fineract-cn-teller",
+    "url": "https://github.com/apache/fineract-cn-teller"
+  },
+  {
+    "name": "fineract-cn-cheques",
+    "url": "https://github.com/apache/fineract-cn-cheques"
+  },
+  {
+    "name": "fineract-cn-payroll",
+    "url": "https://github.com/apache/fineract-cn-payroll"
+  },
+  {
+    "name": "fineract-cn-reporting",
+    "url": "https://github.com/apache/fineract-cn-reporting"
+  },
+  {
+    "name": "fineract-cn-office",
+    "url": "https://github.com/apache/fineract-cn-office"
+  },
+  {
+    "name": "fineract-cn-rhythm",
+    "url": "https://github.com/apache/fineract-cn-rhythm"
+  },
+  {
+    "name": "fineract-cn-provisioner",
+    "url": "https://github.com/apache/fineract-cn-provisioner"
+  },
+  {
+    "name": "fineract-cn-permitted-feign-client",
+    "url": "https://github.com/apache/fineract-cn-permitted-feign-client"
+  },
+  {
+    "name": "fineract-cn-mariadb",
+    "url": "https://github.com/apache/fineract-cn-mariadb"
+  },
+  {
+    "name": "fineract-cn-api",
+    "url": "https://github.com/apache/fineract-cn-api"
+  },
+  {
+    "name": "fineract-cn-lang",
+    "url": "https://github.com/apache/fineract-cn-lang"
+  },
+  {
+    "name": "fineract-cn-identity",
+    "url": "https://github.com/apache/fineract-cn-identity"
+  },
+  {
+    "name": "fineract-cn-default-setup",
+    "url": "https://github.com/apache/fineract-cn-default-setup"
+  },
+  {
+    "name": "fineract-cn-anubis",
+    "url": "https://github.com/apache/fineract-cn-anubis"
+  },
+  {
+    "name": "fineract-cn-template",
+    "url": "https://github.com/apache/fineract-cn-template"
+  },
+  {
+    "name": "fineract-cn-test",
+    "url": "https://github.com/apache/fineract-cn-test"
+  },
+  {
+    "name": "fineract-cn-cassandra",
+    "url": "https://github.com/apache/fineract-cn-cassandra"
+  },
+  {
+    "name": "fineract-cn-command",
+    "url": "https://github.com/apache/fineract-cn-command"
+  },
+  {
+    "name": "fineract-cn-async",
+    "url": "https://github.com/apache/fineract-cn-async"
+  },
+  {
+    "name": "fineract-cn-service-starter",
+    "url": "https://github.com/apache/fineract-cn-service-starter"
+  },
+  {
+    "name": "fineract-cn-crypto",
+    "url": "https://github.com/apache/fineract-cn-crypto"
+  },
+  {
+    "name": "fineract-cn-group",
+    "url": "https://github.com/apache/fineract-cn-group"
+  },
+  {
+    "name": "fineract-cn-data-jpa",
+    "url": "https://github.com/apache/fineract-cn-data-jpa"
+  },
+  {
+    "name": "maven-file-management",
+    "url": "https://github.com/apache/maven-file-management"
+  },
+  {
+    "name": "maven-acr-plugin",
+    "url": "https://github.com/apache/maven-acr-plugin"
+  },
+  {
+    "name": "maven-ant-plugin",
+    "url": "https://github.com/apache/maven-ant-plugin"
+  },
+  {
+    "name": "maven-antrun-plugin",
+    "url": "https://github.com/apache/maven-antrun-plugin"
+  },
+  {
+    "name": "maven-assembly-plugin",
+    "url": "https://github.com/apache/maven-assembly-plugin"
+  },
+  {
+    "name": "maven-changelog-plugin",
+    "url": "https://github.com/apache/maven-changelog-plugin"
+  },
+  {
+    "name": "maven-changes-plugin",
+    "url": "https://github.com/apache/maven-changes-plugin"
+  },
+  {
+    "name": "maven-checkstyle-plugin",
+    "url": "https://github.com/apache/maven-checkstyle-plugin"
+  },
+  {
+    "name": "maven-clean-plugin",
+    "url": "https://github.com/apache/maven-clean-plugin"
+  },
+  {
+    "name": "maven-compiler-plugin",
+    "url": "https://github.com/apache/maven-compiler-plugin"
+  },
+  {
+    "name": "maven-dependency-plugin",
+    "url": "https://github.com/apache/maven-dependency-plugin"
+  },
+  {
+    "name": "maven-deploy-plugin",
+    "url": "https://github.com/apache/maven-deploy-plugin"
+  },
+  {
+    "name": "maven-doap-plugin",
+    "url": "https://github.com/apache/maven-doap-plugin"
+  },
+  {
+    "name": "maven-docck-plugin",
+    "url": "https://github.com/apache/maven-docck-plugin"
+  },
+  {
+    "name": "maven-ear-plugin",
+    "url": "https://github.com/apache/maven-ear-plugin"
+  },
+  {
+    "name": "maven-ejb-plugin",
+    "url": "https://github.com/apache/maven-ejb-plugin"
+  },
+  {
+    "name": "maven-gpg-plugin",
+    "url": "https://github.com/apache/maven-gpg-plugin"
+  },
+  {
+    "name": "maven-help-plugin",
+    "url": "https://github.com/apache/maven-help-plugin"
+  },
+  {
+    "name": "maven-install-plugin",
+    "url": "https://github.com/apache/maven-install-plugin"
+  },
+  {
+    "name": "maven-invoker-plugin",
+    "url": "https://github.com/apache/maven-invoker-plugin"
+  },
+  {
+    "name": "maven-jar-plugin",
+    "url": "https://github.com/apache/maven-jar-plugin"
+  },
+  {
+    "name": "maven-jarsigner-plugin",
+    "url": "https://github.com/apache/maven-jarsigner-plugin"
+  },
+  {
+    "name": "maven-javadoc-plugin",
+    "url": "https://github.com/apache/maven-javadoc-plugin"
+  },
+  {
+    "name": "maven-jdeprscan-plugin",
+    "url": "https://github.com/apache/maven-jdeprscan-plugin"
+  },
+  {
+    "name": "maven-jdeps-plugin",
+    "url": "https://github.com/apache/maven-jdeps-plugin"
+  },
+  {
+    "name": "maven-jlink-plugin",
+    "url": "https://github.com/apache/maven-jlink-plugin"
+  },
+  {
+    "name": "maven-jmod-plugin",
+    "url": "https://github.com/apache/maven-jmod-plugin"
+  },
+  {
+    "name": "maven-linkcheck-plugin",
+    "url": "https://github.com/apache/maven-linkcheck-plugin"
+  },
+  {
+    "name": "maven-patch-plugin",
+    "url": "https://github.com/apache/maven-patch-plugin"
+  },
+  {
+    "name": "maven-pmd-plugin",
+    "url": "https://github.com/apache/maven-pmd-plugin"
+  },
+  {
+    "name": "maven-project-info-reports-plugin",
+    "url": "https://github.com/apache/maven-project-info-reports-plugin"
+  },
+  {
+    "name": "maven-rar-plugin",
+    "url": "https://github.com/apache/maven-rar-plugin"
+  },
+  {
+    "name": "maven-remote-resources-plugin",
+    "url": "https://github.com/apache/maven-remote-resources-plugin"
+  },
+  {
+    "name": "maven-resources-plugin",
+    "url": "https://github.com/apache/maven-resources-plugin"
+  },
+  {
+    "name": "maven-repository-plugin",
+    "url": "https://github.com/apache/maven-repository-plugin"
+  },
+  {
+    "name": "maven-scm-publish-plugin",
+    "url": "https://github.com/apache/maven-scm-publish-plugin"
+  },
+  {
+    "name": "maven-scripting-plugin",
+    "url": "https://github.com/apache/maven-scripting-plugin"
+  },
+  {
+    "name": "maven-shade-plugin",
+    "url": "https://github.com/apache/maven-shade-plugin"
+  },
+  {
+    "name": "maven-source-plugin",
+    "url": "https://github.com/apache/maven-source-plugin"
+  },
+  {
+    "name": "maven-stage-plugin",
+    "url": "https://github.com/apache/maven-stage-plugin"
+  },
+  {
+    "name": "maven-toolchains-plugin",
+    "url": "https://github.com/apache/maven-toolchains-plugin"
+  },
+  {
+    "name": "maven-verifier-plugin",
+    "url": "https://github.com/apache/maven-verifier-plugin"
+  },
+  {
+    "name": "maven-war-plugin",
+    "url": "https://github.com/apache/maven-war-plugin"
+  },
+  {
+    "name": "shardingsphere-elasticjob-cloud",
+    "url": "https://github.com/apache/shardingsphere-elasticjob-cloud"
+  },
+  {
+    "name": "plc4x",
+    "url": "https://github.com/apache/plc4x"
+  },
+  {
+    "name": "maven-doxia-ide",
+    "url": "https://github.com/apache/maven-doxia-ide"
+  },
+  {
+    "name": "maven-archetypes",
+    "url": "https://github.com/apache/maven-archetypes"
+  },
+  {
+    "name": "commons-statistics",
+    "url": "https://github.com/apache/commons-statistics"
+  },
+  {
+    "name": "aries-tx-control",
+    "url": "https://github.com/apache/aries-tx-control"
+  },
+  {
+    "name": "turbine-core",
+    "url": "https://github.com/apache/turbine-core"
+  },
+  {
+    "name": "commons-release-plugin",
+    "url": "https://github.com/apache/commons-release-plugin"
+  },
+  {
+    "name": "datasketches-characterization",
+    "url": "https://github.com/apache/datasketches-characterization"
+  },
+  {
+    "name": "incubator-sdap-ningester",
+    "url": "https://github.com/apache/incubator-sdap-ningester"
+  },
+  {
+    "name": "sling-org-apache-sling-serviceuser-webconsole",
+    "url": "https://github.com/apache/sling-org-apache-sling-serviceuser-webconsole"
+  },
+  {
+    "name": "dubbo-admin",
+    "url": "https://github.com/apache/dubbo-admin"
+  },
+  {
+    "name": "dubbo-spring-boot-project",
+    "url": "https://github.com/apache/dubbo-spring-boot-project"
+  },
+  {
+    "name": "fineract-cn-mobile",
+    "url": "https://github.com/apache/fineract-cn-mobile"
+  },
+  {
+    "name": "incubator-nemo",
+    "url": "https://github.com/apache/incubator-nemo"
+  },
+  {
+    "name": "geronimo-jcache-simple",
+    "url": "https://github.com/apache/geronimo-jcache-simple"
+  },
+  {
+    "name": "manifoldcf-integration-elasticsearch",
+    "url": "https://github.com/apache/manifoldcf-integration-elasticsearch"
+  },
+  {
+    "name": "manifoldcf-integration-elasticsearch-1.5",
+    "url": "https://github.com/apache/manifoldcf-integration-elasticsearch-1.5"
+  },
+  {
+    "name": "manifoldcf-integration-elasticsearch-2.0",
+    "url": "https://github.com/apache/manifoldcf-integration-elasticsearch-2.0"
+  },
+  {
+    "name": "manifoldcf-integration-elasticsearch-5.5",
+    "url": "https://github.com/apache/manifoldcf-integration-elasticsearch-5.5"
+  },
+  {
+    "name": "manifoldcf-integration-solr-5.x",
+    "url": "https://github.com/apache/manifoldcf-integration-solr-5.x"
+  },
+  {
+    "name": "manifoldcf-integration-solr-6.x",
+    "url": "https://github.com/apache/manifoldcf-integration-solr-6.x"
+  },
+  {
+    "name": "manifoldcf-integration-solr-7.x",
+    "url": "https://github.com/apache/manifoldcf-integration-solr-7.x"
+  },
+  {
+    "name": "geronimo-jwt-auth",
+    "url": "https://github.com/apache/geronimo-jwt-auth"
+  },
+  {
+    "name": "commons-geometry",
+    "url": "https://github.com/apache/commons-geometry"
+  },
+  {
+    "name": "archiva-redback-components-spring-utils",
+    "url": "https://github.com/apache/archiva-redback-components-spring-utils"
+  },
+  {
+    "name": "fluo-examples",
+    "url": "https://github.com/apache/fluo-examples"
+  },
+  {
+    "name": "commons-signing",
+    "url": "https://github.com/apache/commons-signing"
+  },
+  {
+    "name": "streampipes",
+    "url": "https://github.com/apache/streampipes"
+  },
+  {
+    "name": "sling-org-apache-sling-feature",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-analyser",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-analyser"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-applicationbuilder",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-applicationbuilder"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-karaf",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-karaf"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-launcher",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-launcher"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-modelconverter",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-modelconverter"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-resolver",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-resolver"
+  },
+  {
+    "name": "sling-slingfeature-maven-plugin",
+    "url": "https://github.com/apache/sling-slingfeature-maven-plugin"
+  },
+  {
+    "name": "dubbo-samples",
+    "url": "https://github.com/apache/dubbo-samples"
+  },
+  {
+    "name": "myfaces-test",
+    "url": "https://github.com/apache/myfaces-test"
+  },
+  {
+    "name": "myfaces-build-tools",
+    "url": "https://github.com/apache/myfaces-build-tools"
+  },
+  {
+    "name": "myfaces",
+    "url": "https://github.com/apache/myfaces"
+  },
+  {
+    "name": "geronimo-opentracing",
+    "url": "https://github.com/apache/geronimo-opentracing"
+  },
+  {
+    "name": "dubbo-benchmark",
+    "url": "https://github.com/apache/dubbo-benchmark"
+  },
+  {
+    "name": "sling-org-apache-sling-servlets-annotations",
+    "url": "https://github.com/apache/sling-org-apache-sling-servlets-annotations"
+  },
+  {
+    "name": "dubbo-async-processor",
+    "url": "https://github.com/apache/dubbo-async-processor"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-clam",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-clam"
+  },
+  {
+    "name": "dubbo-hessian-lite",
+    "url": "https://github.com/apache/dubbo-hessian-lite"
+  },
+  {
+    "name": "geronimo-metrics",
+    "url": "https://github.com/apache/geronimo-metrics"
+  },
+  {
+    "name": "turbine-archetypes",
+    "url": "https://github.com/apache/turbine-archetypes"
+  },
+  {
+    "name": "directory-scimple",
+    "url": "https://github.com/apache/directory-scimple"
+  },
+  {
+    "name": "fineract-cn-notifications",
+    "url": "https://github.com/apache/fineract-cn-notifications"
+  },
+  {
+    "name": "geronimo-openapi",
+    "url": "https://github.com/apache/geronimo-openapi"
+  },
+  {
+    "name": "sling-org-apache-sling-capabilities",
+    "url": "https://github.com/apache/sling-org-apache-sling-capabilities"
+  },
+  {
+    "name": "sling-org-apache-sling-app-cms",
+    "url": "https://github.com/apache/sling-org-apache-sling-app-cms"
+  },
+  {
+    "name": "sling-org-apache-sling-resource-filter",
+    "url": "https://github.com/apache/sling-org-apache-sling-resource-filter"
+  },
+  {
+    "name": "openwebbeans-meecrowave-examples",
+    "url": "https://github.com/apache/openwebbeans-meecrowave-examples"
+  },
+  {
+    "name": "incubator-hugegraph-commons",
+    "url": "https://github.com/apache/incubator-hugegraph-commons"
+  },
+  {
+    "name": "sling-org-apache-sling-file-optimization",
+    "url": "https://github.com/apache/sling-org-apache-sling-file-optimization"
+  },
+  {
+    "name": "geronimo-health",
+    "url": "https://github.com/apache/geronimo-health"
+  },
+  {
+    "name": "shenyu",
+    "url": "https://github.com/apache/shenyu"
+  },
+  {
+    "name": "skywalking-oal-tool",
+    "url": "https://github.com/apache/skywalking-oal-tool"
+  },
+  {
+    "name": "openwhisk-runtime-ballerina",
+    "url": "https://github.com/apache/openwhisk-runtime-ballerina"
+  },
+  {
+    "name": "incubator-hugegraph",
+    "url": "https://github.com/apache/incubator-hugegraph"
+  },
+  {
+    "name": "fineract-cn-stellar-bridge",
+    "url": "https://github.com/apache/fineract-cn-stellar-bridge"
+  },
+  {
+    "name": "db-jdo",
+    "url": "https://github.com/apache/db-jdo"
+  },
+  {
+    "name": "universal-wiki-converter",
+    "url": "https://github.com/apache/universal-wiki-converter"
+  },
+  {
+    "name": "geronimo-microprofile",
+    "url": "https://github.com/apache/geronimo-microprofile"
+  },
+  {
+    "name": "incubator-hugegraph-tools",
+    "url": "https://github.com/apache/incubator-hugegraph-tools"
+  },
+  {
+    "name": "dubbo-sentinel-support",
+    "url": "https://github.com/apache/dubbo-sentinel-support"
+  },
+  {
+    "name": "hbase-operator-tools",
+    "url": "https://github.com/apache/hbase-operator-tools"
+  },
+  {
+    "name": "streampipes-extensions",
+    "url": "https://github.com/apache/streampipes-extensions"
+  },
+  {
+    "name": "ignite-teamcity-bot",
+    "url": "https://github.com/apache/ignite-teamcity-bot"
+  },
+  {
+    "name": "incubator-hugegraph-toolchain",
+    "url": "https://github.com/apache/incubator-hugegraph-toolchain"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-jcr-file",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-jcr-file"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-filetransfer",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-filetransfer"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-provider-installhook",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-provider-installhook"
+  },
+  {
+    "name": "sling-org-apache-sling-clam",
+    "url": "https://github.com/apache/sling-org-apache-sling-clam"
+  },
+  {
+    "name": "freemarker-generator",
+    "url": "https://github.com/apache/freemarker-generator"
+  },
+  {
+    "name": "ambari-logsearch",
+    "url": "https://github.com/apache/ambari-logsearch"
+  },
+  {
+    "name": "ambari-metrics",
+    "url": "https://github.com/apache/ambari-metrics"
+  },
+  {
+    "name": "ambari-infra",
+    "url": "https://github.com/apache/ambari-infra"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-extension-content",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-extension-content"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-packageinit",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-packageinit"
+  },
+  {
+    "name": "accumulo-proxy",
+    "url": "https://github.com/apache/accumulo-proxy"
+  },
+  {
+    "name": "rocketmq-spring",
+    "url": "https://github.com/apache/rocketmq-spring"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-sightly-runtime",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-sightly-runtime"
+  },
+  {
+    "name": "sling-org-apache-sling-capabilities-jcr",
+    "url": "https://github.com/apache/sling-org-apache-sling-capabilities-jcr"
+  },
+  {
+    "name": "dubbo-serialization-gson",
+    "url": "https://github.com/apache/dubbo-serialization-gson"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-extension-apiregions",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-extension-apiregions"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-apiregions",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-apiregions"
+  },
+  {
+    "name": "incubator-milagro-java",
+    "url": "https://github.com/apache/incubator-milagro-java"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-inventoryprinter",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-inventoryprinter"
+  },
+  {
+    "name": "iceberg",
+    "url": "https://github.com/apache/iceberg"
+  },
+  {
+    "name": "fineract-cn-postgresql",
+    "url": "https://github.com/apache/fineract-cn-postgresql"
+  },
+  {
+    "name": "geode-benchmarks",
+    "url": "https://github.com/apache/geode-benchmarks"
+  },
+  {
+    "name": "iotdb",
+    "url": "https://github.com/apache/iotdb"
+  },
+  {
+    "name": "sling-org-apache-sling-launchpad-startupmanager",
+    "url": "https://github.com/apache/sling-org-apache-sling-launchpad-startupmanager"
+  },
+  {
+    "name": "sling-scriptingbundle-maven-plugin",
+    "url": "https://github.com/apache/sling-scriptingbundle-maven-plugin"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-bundle-tracker-it",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-bundle-tracker-it"
+  },
+  {
+    "name": "servicecomb-saga-actuator",
+    "url": "https://github.com/apache/servicecomb-saga-actuator"
+  },
+  {
+    "name": "ignite-abbrev-plugin",
+    "url": "https://github.com/apache/ignite-abbrev-plugin"
+  },
+  {
+    "name": "phoenix-connectors",
+    "url": "https://github.com/apache/phoenix-connectors"
+  },
+  {
+    "name": "cassandra-sidecar",
+    "url": "https://github.com/apache/cassandra-sidecar"
+  },
+  {
+    "name": "aries-journaled-events",
+    "url": "https://github.com/apache/aries-journaled-events"
+  },
+  {
+    "name": "samza-beam-examples",
+    "url": "https://github.com/apache/samza-beam-examples"
+  },
+  {
+    "name": "jclouds-labs",
+    "url": "https://github.com/apache/jclouds-labs"
+  },
+  {
+    "name": "jclouds-labs-aws",
+    "url": "https://github.com/apache/jclouds-labs-aws"
+  },
+  {
+    "name": "jclouds-labs-openstack",
+    "url": "https://github.com/apache/jclouds-labs-openstack"
+  },
+  {
+    "name": "karaf-jclouds-cli",
+    "url": "https://github.com/apache/karaf-jclouds-cli"
+  },
+  {
+    "name": "karaf-jclouds",
+    "url": "https://github.com/apache/karaf-jclouds"
+  },
+  {
+    "name": "jclouds-examples",
+    "url": "https://github.com/apache/jclouds-examples"
+  },
+  {
+    "name": "incubator-baremaps",
+    "url": "https://github.com/apache/incubator-baremaps"
+  },
+  {
+    "name": "sling-org-apache-sling-models-caconfig",
+    "url": "https://github.com/apache/sling-org-apache-sling-models-caconfig"
+  },
+  {
+    "name": "clerezza-contribs",
+    "url": "https://github.com/apache/clerezza-contribs"
+  },
+  {
+    "name": "mina-asyncweb",
+    "url": "https://github.com/apache/mina-asyncweb"
+  },
+  {
+    "name": "mina-ftpserver",
+    "url": "https://github.com/apache/mina-ftpserver"
+  },
+  {
+    "name": "mina-vysper",
+    "url": "https://github.com/apache/mina-vysper"
+  },
+  {
+    "name": "tomee-tck",
+    "url": "https://github.com/apache/tomee-tck"
+  },
+  {
+    "name": "sling-org-apache-sling-bnd-plugins",
+    "url": "https://github.com/apache/sling-org-apache-sling-bnd-plugins"
+  },
+  {
+    "name": "onami",
+    "url": "https://github.com/apache/onami"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-jsp-taglib-compat",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-jsp-taglib-compat"
+  },
+  {
+    "name": "streampipes-examples",
+    "url": "https://github.com/apache/streampipes-examples"
+  },
+  {
+    "name": "camel-k-runtime",
+    "url": "https://github.com/apache/camel-k-runtime"
+  },
+  {
+    "name": "servicecomb-samples",
+    "url": "https://github.com/apache/servicecomb-samples"
+  },
+  {
+    "name": "activemq-artemis-native",
+    "url": "https://github.com/apache/activemq-artemis-native"
+  },
+  {
+    "name": "dolphinscheduler",
+    "url": "https://github.com/apache/dolphinscheduler"
+  },
+  {
+    "name": "tomee-chatterbox",
+    "url": "https://github.com/apache/tomee-chatterbox"
+  },
+  {
+    "name": "incubator-kie-kogito-runtimes",
+    "url": "https://github.com/apache/incubator-kie-kogito-runtimes"
+  },
+  {
+    "name": "incubator-kie-kogito-examples",
+    "url": "https://github.com/apache/incubator-kie-kogito-examples"
+  },
+  {
+    "name": "aries-component-dsl",
+    "url": "https://github.com/apache/aries-component-dsl"
+  },
+  {
+    "name": "aries-cdi",
+    "url": "https://github.com/apache/aries-cdi"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-cpconverter",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-cpconverter"
+  },
+  {
+    "name": "incubator-tuweni",
+    "url": "https://github.com/apache/incubator-tuweni"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-apiregions-model",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-apiregions-model"
+  },
+  {
+    "name": "cayenne-examples",
+    "url": "https://github.com/apache/cayenne-examples"
+  },
+  {
+    "name": "xalan-java",
+    "url": "https://github.com/apache/xalan-java"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-journal",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-journal"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-journal-messages",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-journal-messages"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-journal-kafka",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-journal-kafka"
+  },
+  {
+    "name": "sling-org-apache-sling-distribution-journal-it",
+    "url": "https://github.com/apache/sling-org-apache-sling-distribution-journal-it"
+  },
+  {
+    "name": "sling-org-apache-sling-committer-cli",
+    "url": "https://github.com/apache/sling-org-apache-sling-committer-cli"
+  },
+  {
+    "name": "sling-project-archetype",
+    "url": "https://github.com/apache/sling-project-archetype"
+  },
+  {
+    "name": "hbase-filesystem",
+    "url": "https://github.com/apache/hbase-filesystem"
+  },
+  {
+    "name": "netbeans-mavenutils-nbm-maven-plugin",
+    "url": "https://github.com/apache/netbeans-mavenutils-nbm-maven-plugin"
+  },
+  {
+    "name": "netbeans-mavenutils-archetype-netbeans-platform-app-archetype",
+    "url": "https://github.com/apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype"
+  },
+  {
+    "name": "geronimo-batchee",
+    "url": "https://github.com/apache/geronimo-batchee"
+  },
+  {
+    "name": "dubbo-proxy",
+    "url": "https://github.com/apache/dubbo-proxy"
+  },
+  {
+    "name": "servicecomb-fence",
+    "url": "https://github.com/apache/servicecomb-fence"
+  },
+  {
+    "name": "rocketmq-exporter",
+    "url": "https://github.com/apache/rocketmq-exporter"
+  },
+  {
+    "name": "rocketmq-ons",
+    "url": "https://github.com/apache/rocketmq-ons"
+  },
+  {
+    "name": "sling-org-apache-sling-connection-timeout-agent",
+    "url": "https://github.com/apache/sling-org-apache-sling-connection-timeout-agent"
+  },
+  {
+    "name": "servicecomb-toolkit",
+    "url": "https://github.com/apache/servicecomb-toolkit"
+  },
+  {
+    "name": "camel-quarkus",
+    "url": "https://github.com/apache/camel-quarkus"
+  },
+  {
+    "name": "airavata-mft",
+    "url": "https://github.com/apache/airavata-mft"
+  },
+  {
+    "name": "plc4x-build-tools",
+    "url": "https://github.com/apache/plc4x-build-tools"
+  },
+  {
+    "name": "rocketmq-remoting",
+    "url": "https://github.com/apache/rocketmq-remoting"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-diff",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-diff"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-r2f",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-r2f"
+  },
+  {
+    "name": "incubator-weex-playground",
+    "url": "https://github.com/apache/incubator-weex-playground"
+  },
+  {
+    "name": "causeway-app-petclinic",
+    "url": "https://github.com/apache/causeway-app-petclinic"
+  },
+  {
+    "name": "causeway-app-helloworld",
+    "url": "https://github.com/apache/causeway-app-helloworld"
+  },
+  {
+    "name": "causeway-app-simpleapp",
+    "url": "https://github.com/apache/causeway-app-simpleapp"
+  },
+  {
+    "name": "flink-playgrounds",
+    "url": "https://github.com/apache/flink-playgrounds"
+  },
+  {
+    "name": "sling-org-apache-sling-contentparser-api",
+    "url": "https://github.com/apache/sling-org-apache-sling-contentparser-api"
+  },
+  {
+    "name": "sling-org-apache-sling-contentparser-json",
+    "url": "https://github.com/apache/sling-org-apache-sling-contentparser-json"
+  },
+  {
+    "name": "sling-org-apache-sling-contentparser-xml",
+    "url": "https://github.com/apache/sling-org-apache-sling-contentparser-xml"
+  },
+  {
+    "name": "sling-org-apache-sling-contentparser-xml-jcr",
+    "url": "https://github.com/apache/sling-org-apache-sling-contentparser-xml-jcr"
+  },
+  {
+    "name": "sling-org-apache-sling-contentparser-testutils",
+    "url": "https://github.com/apache/sling-org-apache-sling-contentparser-testutils"
+  },
+  {
+    "name": "linkis",
+    "url": "https://github.com/apache/linkis"
+  },
+  {
+    "name": "sling-feature-converter-maven-plugin",
+    "url": "https://github.com/apache/sling-feature-converter-maven-plugin"
+  },
+  {
+    "name": "cassandra-diff",
+    "url": "https://github.com/apache/cassandra-diff"
+  },
+  {
+    "name": "shardingsphere-benchmark",
+    "url": "https://github.com/apache/shardingsphere-benchmark"
+  },
+  {
+    "name": "juneau-petstore",
+    "url": "https://github.com/apache/juneau-petstore"
+  },
+  {
+    "name": "sling-org-apache-sling-bnd-plugin-headers-parameters-remove",
+    "url": "https://github.com/apache/sling-org-apache-sling-bnd-plugin-headers-parameters-remove"
+  },
+  {
+    "name": "eventmesh",
+    "url": "https://github.com/apache/eventmesh"
+  },
+  {
+    "name": "submarine",
+    "url": "https://github.com/apache/submarine"
+  },
+  {
+    "name": "maven-mvnd",
+    "url": "https://github.com/apache/maven-mvnd"
+  },
+  {
+    "name": "hop",
+    "url": "https://github.com/apache/hop"
+  },
+  {
+    "name": "any23-server",
+    "url": "https://github.com/apache/any23-server"
+  },
+  {
+    "name": "any23-plugins",
+    "url": "https://github.com/apache/any23-plugins"
+  },
+  {
+    "name": "ozone",
+    "url": "https://github.com/apache/ozone"
+  },
+  {
+    "name": "archiva-components",
+    "url": "https://github.com/apache/archiva-components"
+  },
+  {
+    "name": "incubator-kie-kogito-apps",
+    "url": "https://github.com/apache/incubator-kie-kogito-apps"
+  },
+  {
+    "name": "geronimo-arthur",
+    "url": "https://github.com/apache/geronimo-arthur"
+  },
+  {
+    "name": "ws-neethi",
+    "url": "https://github.com/apache/ws-neethi"
+  },
+  {
+    "name": "ws-wss4j",
+    "url": "https://github.com/apache/ws-wss4j"
+  },
+  {
+    "name": "ws-axiom",
+    "url": "https://github.com/apache/ws-axiom"
+  },
+  {
+    "name": "ws-xmlschema",
+    "url": "https://github.com/apache/ws-xmlschema"
+  },
+  {
+    "name": "ignite-extensions",
+    "url": "https://github.com/apache/ignite-extensions"
+  },
+  {
+    "name": "karaf-winegrower",
+    "url": "https://github.com/apache/karaf-winegrower"
+  },
+  {
+    "name": "fineract-cn-interoperation",
+    "url": "https://github.com/apache/fineract-cn-interoperation"
+  },
+  {
+    "name": "flink-statefun",
+    "url": "https://github.com/apache/flink-statefun"
+  },
+  {
+    "name": "camel-kafka-connector",
+    "url": "https://github.com/apache/camel-kafka-connector"
+  },
+  {
+    "name": "shardingsphere-acceptance-test",
+    "url": "https://github.com/apache/shardingsphere-acceptance-test"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-crypto",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-crypto"
+  },
+  {
+    "name": "camel-spring-boot",
+    "url": "https://github.com/apache/camel-spring-boot"
+  },
+  {
+    "name": "inlong",
+    "url": "https://github.com/apache/inlong"
+  },
+  {
+    "name": "rocketmq-connect",
+    "url": "https://github.com/apache/rocketmq-connect"
+  },
+  {
+    "name": "tomcat-jakartaee-migration",
+    "url": "https://github.com/apache/tomcat-jakartaee-migration"
+  },
+  {
+    "name": "maven-doxia-book-renderer",
+    "url": "https://github.com/apache/maven-doxia-book-renderer"
+  },
+  {
+    "name": "maven-doxia-book-maven-plugin",
+    "url": "https://github.com/apache/maven-doxia-book-maven-plugin"
+  },
+  {
+    "name": "geode-kafka-connector",
+    "url": "https://github.com/apache/geode-kafka-connector"
+  },
+  {
+    "name": "camel-examples",
+    "url": "https://github.com/apache/camel-examples"
+  },
+  {
+    "name": "maven-wrapper-plugin",
+    "url": "https://github.com/apache/maven-wrapper-plugin"
+  },
+  {
+    "name": "sling-org-apache-sling-kickstart",
+    "url": "https://github.com/apache/sling-org-apache-sling-kickstart"
+  },
+  {
+    "name": "sling-kickstart-maven-plugin",
+    "url": "https://github.com/apache/sling-kickstart-maven-plugin"
+  },
+  {
+    "name": "cassandra-in-jvm-dtest-api",
+    "url": "https://github.com/apache/cassandra-in-jvm-dtest-api"
+  },
+  {
+    "name": "felix-atomos",
+    "url": "https://github.com/apache/felix-atomos"
+  },
+  {
+    "name": "felix-dev",
+    "url": "https://github.com/apache/felix-dev"
+  },
+  {
+    "name": "skywalking-agent-test-tool",
+    "url": "https://github.com/apache/skywalking-agent-test-tool"
+  },
+  {
+    "name": "incubator-nlpcraft-java-client",
+    "url": "https://github.com/apache/incubator-nlpcraft-java-client"
+  },
+  {
+    "name": "camel-karaf",
+    "url": "https://github.com/apache/camel-karaf"
+  },
+  {
+    "name": "infrastructure-jenkins",
+    "url": "https://github.com/apache/infrastructure-jenkins"
+  },
+  {
+    "name": "axis-axis2-java-core",
+    "url": "https://github.com/apache/axis-axis2-java-core"
+  },
+  {
+    "name": "axis-axis2-java-kandula",
+    "url": "https://github.com/apache/axis-axis2-java-kandula"
+  },
+  {
+    "name": "axis-axis2-java-rampart",
+    "url": "https://github.com/apache/axis-axis2-java-rampart"
+  },
+  {
+    "name": "axis-axis2-java-sandesha",
+    "url": "https://github.com/apache/axis-axis2-java-sandesha"
+  },
+  {
+    "name": "axis-axis2-java-savan",
+    "url": "https://github.com/apache/axis-axis2-java-savan"
+  },
+  {
+    "name": "axis-axis2-java-transports",
+    "url": "https://github.com/apache/axis-axis2-java-transports"
+  },
+  {
+    "name": "axis-axis1-java",
+    "url": "https://github.com/apache/axis-axis1-java"
+  },
+  {
+    "name": "tomcat-taglibs-standard",
+    "url": "https://github.com/apache/tomcat-taglibs-standard"
+  },
+  {
+    "name": "tomcat-taglibs-rdc",
+    "url": "https://github.com/apache/tomcat-taglibs-rdc"
+  },
+  {
+    "name": "pulsar-connectors",
+    "url": "https://github.com/apache/pulsar-connectors"
+  },
+  {
+    "name": "pulsar-adapters",
+    "url": "https://github.com/apache/pulsar-adapters"
+  },
+  {
+    "name": "pulsar-presto",
+    "url": "https://github.com/apache/pulsar-presto"
+  },
+  {
+    "name": "camel-k-examples",
+    "url": "https://github.com/apache/camel-k-examples"
+  },
+  {
+    "name": "flink-training",
+    "url": "https://github.com/apache/flink-training"
+  },
+  {
+    "name": "flink-benchmarks",
+    "url": "https://github.com/apache/flink-benchmarks"
+  },
+  {
+    "name": "uima-async-scaleout",
+    "url": "https://github.com/apache/uima-async-scaleout"
+  },
+  {
+    "name": "camel-kafka-connector-examples",
+    "url": "https://github.com/apache/camel-kafka-connector-examples"
+  },
+  {
+    "name": "sling-org-apache-sling-installer-factory-feature",
+    "url": "https://github.com/apache/sling-org-apache-sling-installer-factory-feature"
+  },
+  {
+    "name": "sling-org-apache-sling-graphql-core",
+    "url": "https://github.com/apache/sling-org-apache-sling-graphql-core"
+  },
+  {
+    "name": "uima-ruta",
+    "url": "https://github.com/apache/uima-ruta"
+  },
+  {
+    "name": "camel-spring-boot-examples",
+    "url": "https://github.com/apache/camel-spring-boot-examples"
+  },
+  {
+    "name": "santuario-xml-security-java",
+    "url": "https://github.com/apache/santuario-xml-security-java"
+  },
+  {
+    "name": "dubbo-spi-extensions",
+    "url": "https://github.com/apache/dubbo-spi-extensions"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-presence",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-presence"
+  },
+  {
+    "name": "tomee-jakartaee-api",
+    "url": "https://github.com/apache/tomee-jakartaee-api"
+  },
+  {
+    "name": "maven-artifact-plugin",
+    "url": "https://github.com/apache/maven-artifact-plugin"
+  },
+  {
+    "name": "commons-graph",
+    "url": "https://github.com/apache/commons-graph"
+  },
+  {
+    "name": "tomee-patch-plugin",
+    "url": "https://github.com/apache/tomee-patch-plugin"
+  },
+  {
+    "name": "shardingsphere-ui",
+    "url": "https://github.com/apache/shardingsphere-ui"
+  },
+  {
+    "name": "tomee-jakarta",
+    "url": "https://github.com/apache/tomee-jakarta"
+  },
+  {
+    "name": "sling-feature-launcher-maven-plugin",
+    "url": "https://github.com/apache/sling-feature-launcher-maven-plugin"
+  },
+  {
+    "name": "dolphinscheduler-maven-plugin",
+    "url": "https://github.com/apache/dolphinscheduler-maven-plugin"
+  },
+  {
+    "name": "shardingsphere-elasticjob-ui",
+    "url": "https://github.com/apache/shardingsphere-elasticjob-ui"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-content-analyzing",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-content-analyzing"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-content-processing",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-content-processing"
+  },
+  {
+    "name": "incubator-kie-optaplanner-quickstarts",
+    "url": "https://github.com/apache/incubator-kie-optaplanner-quickstarts"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-extension-unpack",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-extension-unpack"
+  },
+  {
+    "name": "openwebbeans-peeco",
+    "url": "https://github.com/apache/openwebbeans-peeco"
+  },
+  {
+    "name": "cassandra-harry",
+    "url": "https://github.com/apache/cassandra-harry"
+  },
+  {
+    "name": "camel-quarkus-examples",
+    "url": "https://github.com/apache/camel-quarkus-examples"
+  },
+  {
+    "name": "aries-typedevent",
+    "url": "https://github.com/apache/aries-typedevent"
+  },
+  {
+    "name": "incubator-hugegraph-computer",
+    "url": "https://github.com/apache/incubator-hugegraph-computer"
+  },
+  {
+    "name": "accumulo-classloaders",
+    "url": "https://github.com/apache/accumulo-classloaders"
+  },
+  {
+    "name": "sling-org-apache-sling-adapter-annotations",
+    "url": "https://github.com/apache/sling-org-apache-sling-adapter-annotations"
+  },
+  {
+    "name": "airavata-data-lake",
+    "url": "https://github.com/apache/airavata-data-lake"
+  },
+  {
+    "name": "pulsar-release",
+    "url": "https://github.com/apache/pulsar-release"
+  },
+  {
+    "name": "ignite-3",
+    "url": "https://github.com/apache/ignite-3"
+  },
+  {
+    "name": "camel-kamelets",
+    "url": "https://github.com/apache/camel-kamelets"
+  },
+  {
+    "name": "datasketches-server",
+    "url": "https://github.com/apache/datasketches-server"
+  },
+  {
+    "name": "incubator-wayang",
+    "url": "https://github.com/apache/incubator-wayang"
+  },
+  {
+    "name": "openwhisk-intellij-plugin",
+    "url": "https://github.com/apache/openwhisk-intellij-plugin"
+  },
+  {
+    "name": "solr-sandbox",
+    "url": "https://github.com/apache/solr-sandbox"
+  },
+  {
+    "name": "sling-org-apache-sling-jcr-maintenance",
+    "url": "https://github.com/apache/sling-org-apache-sling-jcr-maintenance"
+  },
+  {
+    "name": "sling-org-apache-sling-scripting-spi",
+    "url": "https://github.com/apache/sling-org-apache-sling-scripting-spi"
+  },
+  {
+    "name": "solr",
+    "url": "https://github.com/apache/solr"
+  },
+  {
+    "name": "camel-performance-tests",
+    "url": "https://github.com/apache/camel-performance-tests"
+  },
+  {
+    "name": "lucene",
+    "url": "https://github.com/apache/lucene"
+  },
+  {
+    "name": "flink-statefun-playground",
+    "url": "https://github.com/apache/flink-statefun-playground"
+  },
+  {
+    "name": "datasketches-memory16",
+    "url": "https://github.com/apache/datasketches-memory16"
+  },
+  {
+    "name": "flink-ml",
+    "url": "https://github.com/apache/flink-ml"
+  },
+  {
+    "name": "sling-org-apache-sling-auth-saml2",
+    "url": "https://github.com/apache/sling-org-apache-sling-auth-saml2"
+  },
+  {
+    "name": "skywalking-kong",
+    "url": "https://github.com/apache/skywalking-kong"
+  },
+  {
+    "name": "qpid-protonj2",
+    "url": "https://github.com/apache/qpid-protonj2"
+  },
+  {
+    "name": "incubator-kie-kogito-benchmarks",
+    "url": "https://github.com/apache/incubator-kie-kogito-benchmarks"
+  },
+  {
+    "name": "tomee-release-tools",
+    "url": "https://github.com/apache/tomee-release-tools"
+  },
+  {
+    "name": "apisix-java-plugin-runner",
+    "url": "https://github.com/apache/apisix-java-plugin-runner"
+  },
+  {
+    "name": "sling-org-apache-sling-sitemap",
+    "url": "https://github.com/apache/sling-org-apache-sling-sitemap"
+  },
+  {
+    "name": "camel-kameleon",
+    "url": "https://github.com/apache/camel-kameleon"
+  },
+  {
+    "name": "rocketmq-streams",
+    "url": "https://github.com/apache/rocketmq-streams"
+  },
+  {
+    "name": "nutch-webapp",
+    "url": "https://github.com/apache/nutch-webapp"
+  },
+  {
+    "name": "sling-org-apache-sling-graphql-schema-aggregator",
+    "url": "https://github.com/apache/sling-org-apache-sling-graphql-schema-aggregator"
+  },
+  {
+    "name": "sling-org-apache-sling-thumbnails",
+    "url": "https://github.com/apache/sling-org-apache-sling-thumbnails"
+  },
+  {
+    "name": "fineract-credit-scorecard",
+    "url": "https://github.com/apache/fineract-credit-scorecard"
+  },
+  {
+    "name": "iotdb-web-workbench",
+    "url": "https://github.com/apache/iotdb-web-workbench"
+  },
+  {
+    "name": "rocketmq-dashboard",
+    "url": "https://github.com/apache/rocketmq-dashboard"
+  },
+  {
+    "name": "rocketmq-flink",
+    "url": "https://github.com/apache/rocketmq-flink"
+  },
+  {
+    "name": "skywalking-java",
+    "url": "https://github.com/apache/skywalking-java"
+  },
+  {
+    "name": "skywalking-banyandb-java-client",
+    "url": "https://github.com/apache/skywalking-banyandb-java-client"
+  },
+  {
+    "name": "turbine-fulcrum-json",
+    "url": "https://github.com/apache/turbine-fulcrum-json"
+  },
+  {
+    "name": "turbine-fulcrum-security",
+    "url": "https://github.com/apache/turbine-fulcrum-security"
+  },
+  {
+    "name": "turbine-fulcrum-yaafi",
+    "url": "https://github.com/apache/turbine-fulcrum-yaafi"
+  },
+  {
+    "name": "turbine-fulcrum-quartz",
+    "url": "https://github.com/apache/turbine-fulcrum-quartz"
+  },
+  {
+    "name": "turbine-fulcrum-pool",
+    "url": "https://github.com/apache/turbine-fulcrum-pool"
+  },
+  {
+    "name": "turbine-fulcrum-parser",
+    "url": "https://github.com/apache/turbine-fulcrum-parser"
+  },
+  {
+    "name": "turbine-fulcrum-factory",
+    "url": "https://github.com/apache/turbine-fulcrum-factory"
+  },
+  {
+    "name": "turbine-fulcrum-intake",
+    "url": "https://github.com/apache/turbine-fulcrum-intake"
+  },
+  {
+    "name": "turbine-fulcrum-crypto",
+    "url": "https://github.com/apache/turbine-fulcrum-crypto"
+  },
+  {
+    "name": "turbine-fulcrum-localization",
+    "url": "https://github.com/apache/turbine-fulcrum-localization"
+  },
+  {
+    "name": "turbine-fulcrum-testcontainer",
+    "url": "https://github.com/apache/turbine-fulcrum-testcontainer"
+  },
+  {
+    "name": "turbine-fulcrum-yaafi-crypto",
+    "url": "https://github.com/apache/turbine-fulcrum-yaafi-crypto"
+  },
+  {
+    "name": "turbine-fulcrum-upload",
+    "url": "https://github.com/apache/turbine-fulcrum-upload"
+  },
+  {
+    "name": "asterixdb-clients",
+    "url": "https://github.com/apache/asterixdb-clients"
+  },
+  {
+    "name": "cassandra-accord",
+    "url": "https://github.com/apache/cassandra-accord"
+  },
+  {
+    "name": "rocketmq-cloudevents",
+    "url": "https://github.com/apache/rocketmq-cloudevents"
+  },
+  {
+    "name": "cxf-site",
+    "url": "https://github.com/apache/cxf-site"
+  },
+  {
+    "name": "maven-wrapper",
+    "url": "https://github.com/apache/maven-wrapper"
+  },
+  {
+    "name": "incubator-celeborn",
+    "url": "https://github.com/apache/incubator-celeborn"
+  },
+  {
+    "name": "maven-build-cache-extension",
+    "url": "https://github.com/apache/maven-build-cache-extension"
+  },
+  {
+    "name": "incubator-paimon",
+    "url": "https://github.com/apache/incubator-paimon"
+  },
+  {
+    "name": "rocketmq-mqtt",
+    "url": "https://github.com/apache/rocketmq-mqtt"
+  },
+  {
+    "name": "ratis-hadoop-projects",
+    "url": "https://github.com/apache/ratis-hadoop-projects"
+  },
+  {
+    "name": "beam-starter-java",
+    "url": "https://github.com/apache/beam-starter-java"
+  },
+  {
+    "name": "rocketmq-eventbridge",
+    "url": "https://github.com/apache/rocketmq-eventbridge"
+  },
+  {
+    "name": "uima-uimaj-io-jsoncas",
+    "url": "https://github.com/apache/uima-uimaj-io-jsoncas"
+  },
+  {
+    "name": "doris-spark-connector",
+    "url": "https://github.com/apache/doris-spark-connector"
+  },
+  {
+    "name": "doris-manager",
+    "url": "https://github.com/apache/doris-manager"
+  },
+  {
+    "name": "flink-kubernetes-operator",
+    "url": "https://github.com/apache/flink-kubernetes-operator"
+  },
+  {
+    "name": "doris-flink-connector",
+    "url": "https://github.com/apache/doris-flink-connector"
+  },
+  {
+    "name": "ant-antlibs-s3",
+    "url": "https://github.com/apache/ant-antlibs-s3"
+  },
+  {
+    "name": "camel-kamelets-examples",
+    "url": "https://github.com/apache/camel-kamelets-examples"
+  },
+  {
+    "name": "flink-connector-elasticsearch",
+    "url": "https://github.com/apache/flink-connector-elasticsearch"
+  },
+  {
+    "name": "flume-search",
+    "url": "https://github.com/apache/flume-search"
+  },
+  {
+    "name": "datasketches-memory17",
+    "url": "https://github.com/apache/datasketches-memory17"
+  },
+  {
+    "name": "rocketmq-e2e",
+    "url": "https://github.com/apache/rocketmq-e2e"
+  },
+  {
+    "name": "flink-connector-rabbitmq",
+    "url": "https://github.com/apache/flink-connector-rabbitmq"
+  },
+  {
+    "name": "asterixdb-graph",
+    "url": "https://github.com/apache/asterixdb-graph"
+  },
+  {
+    "name": "sling-maven-enforcer-rules",
+    "url": "https://github.com/apache/sling-maven-enforcer-rules"
+  },
+  {
+    "name": "incubator-uniffle",
+    "url": "https://github.com/apache/incubator-uniffle"
+  },
+  {
+    "name": "rocketmq-clients",
+    "url": "https://github.com/apache/rocketmq-clients"
+  },
+  {
+    "name": "rocketmq-schema-registry",
+    "url": "https://github.com/apache/rocketmq-schema-registry"
+  },
+  {
+    "name": "juddi-scout",
+    "url": "https://github.com/apache/juddi-scout"
+  },
+  {
+    "name": "flink-connector-aws",
+    "url": "https://github.com/apache/flink-connector-aws"
+  },
+  {
+    "name": "pulsar-client-reactive",
+    "url": "https://github.com/apache/pulsar-client-reactive"
+  },
+  {
+    "name": "shenyu-watcher",
+    "url": "https://github.com/apache/shenyu-watcher"
+  },
+  {
+    "name": "flink-connector-opensearch",
+    "url": "https://github.com/apache/flink-connector-opensearch"
+  },
+  {
+    "name": "jmeter-bugzilla-attachments",
+    "url": "https://github.com/apache/jmeter-bugzilla-attachments"
+  },
+  {
+    "name": "seatunnel-web",
+    "url": "https://github.com/apache/seatunnel-web"
+  },
+  {
+    "name": "dubbo-test-tools",
+    "url": "https://github.com/apache/dubbo-test-tools"
+  },
+  {
+    "name": "flink-connector-mongodb",
+    "url": "https://github.com/apache/flink-connector-mongodb"
+  },
+  {
+    "name": "karaf-minho",
+    "url": "https://github.com/apache/karaf-minho"
+  },
+  {
+    "name": "incubator-pekko-platform-guide",
+    "url": "https://github.com/apache/incubator-pekko-platform-guide"
+  },
+  {
+    "name": "incubator-teaclave-java-tee-sdk",
+    "url": "https://github.com/apache/incubator-teaclave-java-tee-sdk"
+  },
+  {
+    "name": "flink-connector-cassandra",
+    "url": "https://github.com/apache/flink-connector-cassandra"
+  },
+  {
+    "name": "iotdb-tsfile-viewer",
+    "url": "https://github.com/apache/iotdb-tsfile-viewer"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-permissions",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-permissions"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-permissions-sling",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-permissions-sling"
+  },
+  {
+    "name": "flink-connector-kafka",
+    "url": "https://github.com/apache/flink-connector-kafka"
+  },
+  {
+    "name": "flink-connector-hbase",
+    "url": "https://github.com/apache/flink-connector-hbase"
+  },
+  {
+    "name": "flink-connector-pulsar",
+    "url": "https://github.com/apache/flink-connector-pulsar"
+  },
+  {
+    "name": "flink-connector-gcp-pubsub",
+    "url": "https://github.com/apache/flink-connector-gcp-pubsub"
+  },
+  {
+    "name": "flink-connector-jdbc",
+    "url": "https://github.com/apache/flink-connector-jdbc"
+  },
+  {
+    "name": "logging-log4j-server",
+    "url": "https://github.com/apache/logging-log4j-server"
+  },
+  {
+    "name": "logging-log4j-samples",
+    "url": "https://github.com/apache/logging-log4j-samples"
+  },
+  {
+    "name": "ctakes",
+    "url": "https://github.com/apache/ctakes"
+  },
+  {
+    "name": "netbeans-nbpackage",
+    "url": "https://github.com/apache/netbeans-nbpackage"
+  },
+  {
+    "name": "seatunnel-datasource-sdk",
+    "url": "https://github.com/apache/seatunnel-datasource-sdk"
+  },
+  {
+    "name": "sling-org-apache-sling-repoinit-filevault-validator",
+    "url": "https://github.com/apache/sling-org-apache-sling-repoinit-filevault-validator"
+  },
+  {
+    "name": "dubbo-initializer",
+    "url": "https://github.com/apache/dubbo-initializer"
+  },
+  {
+    "name": "seatunnel-shade",
+    "url": "https://github.com/apache/seatunnel-shade"
+  },
+  {
+    "name": "logging-log4j-transform",
+    "url": "https://github.com/apache/logging-log4j-transform"
+  },
+  {
+    "name": "airavata-data-catalog",
+    "url": "https://github.com/apache/airavata-data-catalog"
+  },
+  {
+    "name": "iotdb-backup-tool",
+    "url": "https://github.com/apache/iotdb-backup-tool"
+  },
+  {
+    "name": "maven-apache-resources",
+    "url": "https://github.com/apache/maven-apache-resources"
+  },
+  {
+    "name": "incubator-pekko-connectors-samples",
+    "url": "https://github.com/apache/incubator-pekko-connectors-samples"
+  },
+  {
+    "name": "flume-spring-boot",
+    "url": "https://github.com/apache/flume-spring-boot"
+  },
+  {
+    "name": "flume-twitter",
+    "url": "https://github.com/apache/flume-twitter"
+  },
+  {
+    "name": "flume-morphline",
+    "url": "https://github.com/apache/flume-morphline"
+  },
+  {
+    "name": "flume-legacy",
+    "url": "https://github.com/apache/flume-legacy"
+  },
+  {
+    "name": "flume-kafka",
+    "url": "https://github.com/apache/flume-kafka"
+  },
+  {
+    "name": "flume-jdbc",
+    "url": "https://github.com/apache/flume-jdbc"
+  },
+  {
+    "name": "incubator-paimon-shade",
+    "url": "https://github.com/apache/incubator-paimon-shade"
+  },
+  {
+    "name": "flume-hadoop",
+    "url": "https://github.com/apache/flume-hadoop"
+  },
+  {
+    "name": "incubator-paimon-presto",
+    "url": "https://github.com/apache/incubator-paimon-presto"
+  },
+  {
+    "name": "incubator-paimon-trino",
+    "url": "https://github.com/apache/incubator-paimon-trino"
+  },
+  {
+    "name": "incubator-pekko-quickstart-java.g8",
+    "url": "https://github.com/apache/incubator-pekko-quickstart-java.g8"
+  },
+  {
+    "name": "cassandra-analytics",
+    "url": "https://github.com/apache/cassandra-analytics"
+  },
+  {
+    "name": "kyuubi-service-rpc",
+    "url": "https://github.com/apache/kyuubi-service-rpc"
+  },
+  {
+    "name": "hadoop-api-shim",
+    "url": "https://github.com/apache/hadoop-api-shim"
+  },
+  {
+    "name": "causeway-app-referenceapp",
+    "url": "https://github.com/apache/causeway-app-referenceapp"
+  },
+  {
+    "name": "incubator-paimon-webui",
+    "url": "https://github.com/apache/incubator-paimon-webui"
+  },
+  {
+    "name": "shenyu-wasm",
+    "url": "https://github.com/apache/shenyu-wasm"
+  },
+  {
+    "name": "uima-ducc",
+    "url": "https://github.com/apache/uima-ducc"
+  },
+  {
+    "name": "sling-org-apache-sling-commons-metrics-prometheus",
+    "url": "https://github.com/apache/sling-org-apache-sling-commons-metrics-prometheus"
+  },
+  {
+    "name": "logging-log4j-jmx-gui",
+    "url": "https://github.com/apache/logging-log4j-jmx-gui"
+  },
+  {
+    "name": "accumulo-access",
+    "url": "https://github.com/apache/accumulo-access"
+  },
+  {
+    "name": "shardingsphere-plugin",
+    "url": "https://github.com/apache/shardingsphere-plugin"
+  },
+  {
+    "name": "incubator-kie-tools-temporary-rnd-do-not-use",
+    "url": "https://github.com/apache/incubator-kie-tools-temporary-rnd-do-not-use"
+  },
+  {
+    "name": "netbeans-antora-tutorials",
+    "url": "https://github.com/apache/netbeans-antora-tutorials"
+  },
+  {
+    "name": "sling-org-apache-sling-feature-analyser-classes",
+    "url": "https://github.com/apache/sling-org-apache-sling-feature-analyser-classes"
+  },
+  {
+    "name": "skywalking-graalvm-distro",
+    "url": "https://github.com/apache/skywalking-graalvm-distro"
+  }
+]

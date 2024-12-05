@@ -1,0 +1,9 @@
+
+datasets
+transformers
+torch==2.4.1
+accelerate
+peft
+trl
+natsort
+huggingface_hub

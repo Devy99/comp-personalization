@@ -1,5 +1,3 @@
-# Example of usage from command line: Rscript stats-personalization.R ../../5-developer-training/test-predictions/dev-datasets sft1-sft2-all-dev,sft1-sft2-all-small,sft1-sft2-dev pvalue_or_em.csv
-
 # Clear the environment
 rm(list=ls())
 

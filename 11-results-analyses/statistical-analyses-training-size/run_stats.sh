@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Compute p-value and OR for the small models and p-value and effect size for crystalBLEU - small models
-SMALL_PREDICTIONS=./predictions_top_100_small/
+SMALL_PREDICTIONS=./predictions_organization_subset_baselinep/
 JAVA_DATASET=./formatted_methods.csv
 CRYSTALBLEU_DIR=./cb-organization-subset-baselinep/
 

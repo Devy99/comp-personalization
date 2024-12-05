@@ -13,7 +13,7 @@ MODELS=sft1-sft2-all-dev,sft1-sft2-dev
 JAVA_DATASET=./formatted_methods.csv
 
 echo "===================================================================================================="
-echo "Computing p-value and OR for the large models and p-value and effect size for crystalBLEU - Code Lla,a"
+echo "Computing p-value and OR for the large models and p-value and effect size for crystalBLEU - Code Llama"
 echo "===================================================================================================="
 
 

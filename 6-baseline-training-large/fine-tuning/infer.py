@@ -140,24 +140,31 @@ class DataTrainingArguments:
 def check_model_accuracy(targets, predictions):
     assert len(targets) == len(predictions), f"Targets size: {len(targets)} != Predictions size: {len(predictions)}"
 
-    # compare two sets
     perfect_predictions = 0
     for x,y in zip(targets, predictions):
-      x = ''.join(x.split())   # To fix double-space issue
+      x = x.replace('<NL>', '')
+      y = y.replace('<NL>', '')
+
+      x = ''.join(x.split())
       y = ''.join(y.split())
       if x == y:
         perfect_predictions += 1
 
     accuracy = perfect_predictions*100.0/len(targets)    
-    # print(f"Instances: {len(targets)}\t\tModel Accuracy: {perfect_predictions*100.0/len(targets):.2f}% (pp={perfect_predictions})")
     return float(accuracy)
 
 
 def save_prediction_stats(filepath: str, inputs: list, targets: list, predictions: list):
+    corrects = list()
+    for p, t in zip(predictions, targets):
+        p = ''.join(p.replace('<NL>', '').split())
+        t = ''.join(t.replace('<NL>', '').split())
+        corrects.append(True if p == t else False)
+    
     df = pd.DataFrame({'input': inputs, \
                        'target': targets, \
                        'prediction': predictions, \
-                       'correct': [True if ''.join(p.split()) == ''.join(t.split()) else False for p, t in zip(predictions, targets)]})
+                       'correct': corrects})
     df.to_csv(filepath, index=False)
 
 

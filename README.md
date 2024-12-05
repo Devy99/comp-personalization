@@ -3,13 +3,11 @@
 ## Introduction
 This repository contains the scripts required to reproduce the results described in *"Why Personalizing Deep Learning-Based Code Completion Tools Matters"*. 
 In this work, we conduct an empirical study to understand how far it is possible to personalize code completion recommender systems on two levels of granularity: organization-specific and developer-specific.
-We also provide additional details on the experiments reported in the paper (see [Additional results](#additional-results)).
 
 ## Contents 
 1. [Prerequisites](#prerequisites)
 2. [Datasets and materials](#datasets-and-materials)
 3. [Replication of the results](#replication-of-the-results)
-4. [Additional results](#additional-results)
 
 ## Prerequisites
 Below is the list of the languages used for writing the scripts of this repository and the versions used for their execution:
@@ -42,24 +40,25 @@ To correctly reproduce the scripts for the model training, you need to install t
 ## Datasets and materials
 You can find the datasets and the results of our experiments on our [Zenodo repository](https://doi.org/10.5281/zenodo.10817220).
 
-Below, we describe the files stored in the repository:
+Below, we describe the files stored in the repository. Each directory is divided in "apache" and "spring" to differentiate the datasets of the two organizations.
 - **datasets**: contains the datasets used for pre-training and fine-tuning our baseline (folder *general_datasets*) and for the second fine-tuning of developer- and organization-specific models (folder *developer_datasets*). 
 
     The datasets of the developers are organized as follows:
     - Train / validation / test set containing **developer code changes** ( files developer_masked_methods_\*.csv )
-    - Train and validation sets used to train and validate the **organization-specific** model for that particular developer ( files apache_dataset_total_\*.csv )
-    - Only for the top 10 developers, train and validation sets used to train and validate the **organization subset** (files apache_dataset_small_\*.csv) and the **baseline+** (files random_changes_\*.csv) models.
-- **results**: contains the outcome of two experiments, namely the performance of the developer- and organization-specific models on the top 100 developers' test sets and the analysis of the impact of the training size. 
+    - Train and validation sets used to train and validate the **organization-specific** model for that particular developer ( files apache_dataset_total_\*.csv and spring-projects_dataset_total_\*.csv )
+    - Only for the top 10 developers, train and validation sets used to train and validate the **organization subset** (files apache_dataset_small_\*.csv and spring-projects_dataset_small_*.csv) and the **baseline+** (files random_changes_\*.csv) models.
+
+    Under the directory *developer_datasets*, you can find also the *raw-datasets* folder, which contains the formatted version of the datasets above, used to train the Code Llama models.
+- **results**: contains the outcome of our experiments, namely the performance of the developer- and organization-specific models on the developers' test sets using T5 small, T5 large and Codellama, and the analysis of the impact of the training size. 
 
     In particular, we find the following folders:
-    - **predictions_top_100_small**, which contains, for each developer, the predictions of the baseline model (folder *pt-sft1*) and of the developer- (folder *sft1-sft2-dev*) and organization-specific (folder *sft1-sft2-all-dev*) models on the developer test set. For the top 10 developers, you can also find the predictions of the organization subset model (folder *sft1-sft2-all-small*) and the baseline+ model (folder *rnd*).
+    - **predictions**, which contains, for each developer, the predictions of the baseline model (folder *pt-sft1*) and of the developer- (folder *sft1-sft2-dev*) and organization-specific (folder *sft1-sft2-all-dev*) models on the developer test set. For the top 10 developers, you can also find the predictions of the organization subset model (folder *sft1-sft2-all-small*) and the baseline+ model (folder *rnd*). In case of Code Llama results, you can also find the predictions of the baseline fine-tuned on 10k instances under the directory *pt-sft1-ft*.
     - **accuracies**, containing CSV files reporting the performance of each model on the developers' test sets.
-    - **crystalBLEU**, containing the CrystalBLEU score on the predictions of each model. Further details on the distribution of the CrystalBLEU score are reported in the *crystalBLEU_distribution.txt* file.
+    - **crystalBLEU**, containing the CrystalBLEU score on the predictions of each model and for each developer (file crystalbleu.csv).
     - **statistical_analysis**, containing the p-value and the Odds Ratio calculated on each model result (file pvalue_or_em_\*.csv) and the p-value and effect size on the CrystalBLEU distribution (file pvalue_es_cb_\*.csv).
-- **additional-results**:  contains the outcome of the experiment conducted training T5 large on the top 10 developers. It is structured as the *results* folder. More details on these results are provided in [Additional results](#additional-results).
 
 ## Replication of the results
-In this repository, you can find a list of numbered folders containing scripts for reproducing the results described in our work. To correctly execute the code, it is necessary to run the scripts step-by-step, starting from the first folder (*1-github-miner*). Each directory contains Bash scripts that aid the execution of the Python scripts following the correct flow. Note that some scripts require high computational resources to be correctly executed. Hence, we recommend running them on a high-performance machine.
+In this repository, you can find a list of numbered folders containing scripts for reproducing the results described in our work. To correctly execute the code, it is necessary to run the scripts step-by-step, starting from the first folder (*1-github-miner*). Each directory contains Bash scripts that aid the execution of the Python scripts following the correct flow. Note that with these scripts you can reproduce the results for the Apache organization. However, you can easily adapt them to the organization of your interest by replacing the organization name in the scripts. Also, some scripts require high computational resources to be correctly executed. Hence, we recommend running them on a high-performance machine.
 
 ### Datasets generation
 The first step is creating the datasets for training our models. 
@@ -90,61 +89,24 @@ In *7-developer-training*, *8-size-impact-training*, and *9-large-training* fold
 
 We trained T5 small models with a batch size of 32 and T5 large models with a batch size of 4. Reproducing our work with different GPUs could require modifying this value to the most appropriate for the used machine. You can update this value by changing the variable "TRAIN_BATCH_SIZE" in the training scripts.
 
+In *10-codellama-training*, instead, we fine-tune the Code Llama model on the developer/organization datasets using LoRA. For dependency compatibility, we recommend to use a different virtual environment with the dependencies specified in the *requirements_peft.txt* file.
+
 ### Analysis of the results
-Finally, the 10-results-analyses folder contains the code used for analyzing the outcome of the experiments. Starting from the datasets described above, you can reproduce the CrystalBLEU distribution and the statistical analyses reported in the paper. 
+Finally, the 11-results-analyses folder contains the code used for analyzing the outcome of the experiments. Starting from the datasets described above, you can reproduce the CrystalBLEU distribution and the statistical analyses reported in the paper. 
 
 Below is an example of how to perform statistical tests and calculate CrystalBLEU distribution for T5 small and T5 large experiments: 
 
   ```sh
    # Move to the desired folder
-   cd 10-results-analyses/statistical-analyses
+   cd 11-results-analyses/statistical-analyses
 
    # Copy models' predictions of T5 small and large experiments
-   cp -r ./<YOUR_PATH>/results/predictions_top_100_small .
-   cp -r ./<YOUR_PATH>/additional-results/predictions_top_10_large .
+   cp -r ./<YOUR_PATH>/results/apache/predictions/predictions_top_100_t5small .
+   cp -r ./<YOUR_PATH>/results/apache/predictions/predictions_top_10_large .
 
    # Copy fine-tuning dataset for computing trivially shared n-grams
-   cp ./<YOUR_PATH>/datasets/general_datasets/formatted_methods.csv .
+   cp ./<YOUR_PATH>/datasets/general_datasets/apache/formatted_methods.csv .
 
    # Run script
    bash run_stats.sh
    ```
-## Additional results
-
-### Impact of the Training Data Size
-In our work, we stated that the recorded boost in performance for developer- and organization-specific models is not only due to the additional amount of data.
-
-To support the results of the exact match study, we calculated the CrystalBLEU score between the models' suggestions and the expected completions. The table below shows the distribution of the CrystalBLEU value on the developers' test sets for the considered models. In particular, we show the mean and median values and the first and third quartiles of the distribution.
-
-|model  |              mean  |    median    | 1Q|     3Q|
-|-------|--------------------|--------------|---|-------|              
-baseline |              0.51 |    0.49   |      0.06  |  1.0|
-developer   |           0.56  |   0.59   |      0.16  |  1.0|
-organization subset  |  0.54  |   0.55   |      0.11  |  1.0|
-organization    |       0.60  |   0.68   |      0.22  |  1.0|
-baseline+  |        0.57  |   0.61   |      0.18  |  1.0 |
-
-As a result, we found a higher semantic similarity for developer-specific models (mean=0.56, median=0.59) respect the suggestions provided by the organization subset (mean=0.54, median=0.55) and, similarly, a higher CrystalBLEU value for organization-specific models (mean=0.60, median=0.68) respect the
-baseline+(mean=0.57, median=0.61). In both cases, the difference is statistically significant. Below are the results of the statistical tests:
-- organization subset _versus_ developer-specific (p-value <0.001 and effect size=0.03) 
-- baseline+ _versus_ organization-specific (p-value <0.001 and effect size=0.05)
-
-
-### Impact of the Model Size
-The table below describes the performance of developer- and organization-specific models trained on the top 10 developers' datasets using T5 large v1.1.
-
-![image](additional-results/t5-large.png)
-
-As mentioned in our work, we can see the same trend observed for the models trained with the smaller version of T5. Indeed, our baseline performs worse than developer- and organization-specific models, with the latter always being the best choice. In particular, in 6 developers out of 10, we observe a statistically significant increase in the performance of the organization-specific models.
-
-The analysis of the CrystalBLEU distribution on the models' predictions further confirms this result:
-
-model   |             mean  |  median |1Q  |  3Q |  
-|-------|--------------------|--------------|---|-------|                                          
-baseline |      0.59 | 0.65 |0.20  | 1.0 |
-developer |     0.63 | 0.75 | 0.26 |  1.0 |
-organization |   0.65 | 0.81 |  0.31 | 1.0 |
-
-With a median CrystalBLEU value of 0.81, the organization-specific models provide more semantically similar recommendations than developer-specific models (median=0.75) and the baseline (median=0.65). The differences are statistically significant. Below, we list the results of the statistical tests:
-- developer-specific _versus_ baseline (p-value <0.001 and effect size=0.06) 
-- organization-specific _versus_ baseline (p-value <0.001 and effect size=0.09)

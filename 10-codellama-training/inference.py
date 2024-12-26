@@ -156,8 +156,7 @@ if __name__ == '__main__':
     dataset = Dataset.from_pandas(df)
     max_source_length = data_args.max_source_length - data_args.max_target_length - 1 
     def preprocess_single(example):
-        input_before = example["prompt"].split("<FILL_ME>")[0]
-        input_ids = bos_token + tokenizer(input_before, max_length=max_source_length, truncation=True)["input_ids"]
+        input_ids = bos_token + tokenizer(example["prompt"], max_length=max_source_length, truncation=True)["input_ids"]
         attention_mask = [1] * len(input_ids)
         return {
             "input_ids": input_ids,
